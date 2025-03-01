@@ -24,12 +24,9 @@ export async function updateQuestStats(probability: string, success: boolean) {
             questStats[probability].succeed += 1;
         }
 
-        // try out more difficult ones to get some stats going for them before fully skipping them
-        if (questStats[probability].total >= 100) {
-            questStats[probability].risk = Number(
-                (questStats[probability].succeed / questStats[probability].total).toFixed(2)
-            );
-        }
+        questStats[probability].risk = Number(
+            (questStats[probability].succeed / questStats[probability].total).toFixed(2)
+        );
 
         fs.writeFileSync(STATS_FILE_PATH, JSON.stringify(questStats, null, 2));
 
