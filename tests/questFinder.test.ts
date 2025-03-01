@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { getBestQuest } from "../src/questFinder";
+import { findBestQuest } from "../src/findBestQuest";
 
 describe("getBestQuest", () => {
     it("returns the quest with the highest reward-to-expiration ratio", () => {
@@ -9,11 +9,11 @@ describe("getBestQuest", () => {
             { adId: "quest3", reward: 30, expiresIn: 3 },
         ];
 
-        expect(getBestQuest(sampleQuests)).toBe("quest2");
+        expect(findBestQuest(sampleQuests)).toBe("quest2");
     });
 
     it("returns null for an empty quest list", () => {
-        expect(getBestQuest([])).toBeNull();
+        expect(findBestQuest([])).toBeNull();
     });
 
     it("ignores invalid quests", () => {
@@ -22,6 +22,6 @@ describe("getBestQuest", () => {
             { adId: "quest2", reward: 0, expiresIn: 5 },  // Invalid (reward = 0)
         ];
 
-        expect(getBestQuest(invalidQuests)).toBeNull();
+        expect(findBestQuest(invalidQuests)).toBeNull();
     });
 });

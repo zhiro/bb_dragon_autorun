@@ -1,7 +1,7 @@
 import { getQuestDifficulty } from "./getQuestDifficulty";
 
 
-export function getBestQuest(quests: any[]): string | null {
+export async function findBestQuest(quests: any[]): Promise<string | null> {
     try {
         if (!Array.isArray(quests) || quests.length === 0) {
             throw new Error("Invalid or empty quest data.");
@@ -10,10 +10,14 @@ export function getBestQuest(quests: any[]): string | null {
         let bestQuestId = null;
         let highestQuestScore = -Infinity;
 
-        const difficultyModifier = 5;
+
 
         for (const quest of quests) {
-            if (quest.encrypted !== 1) {
+            if (quest.encrypted == null) {
+                if (quest.message.startsWith("Steal super awesome diamond")) {
+                    continue;
+                }
+
                 if (quest.reward && quest.expiresIn) {
                     const difficulty = getQuestDifficulty(quest.probability);
 
@@ -31,6 +35,7 @@ export function getBestQuest(quests: any[]): string | null {
 
         if (!bestQuestId) {
             throw new Error("No valid quest found with reward and expiration values.");
+            // if no good quest is found then wait 1 turn? Add counter to wait up to 10 turns?
         }
 
         console.log(`Best quest found: ${bestQuestId} (Ratio: ${highestQuestScore.toFixed(2)})`);
