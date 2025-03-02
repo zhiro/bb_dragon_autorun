@@ -1,57 +1,57 @@
 {
   "Sure thing": {
-    "succeed": 227,
-    "total": 227,
+    "succeed": 258,
+    "total": 258,
     "risk": 1
   },
   "Piece of cake": {
-    "succeed": 771,
-    "total": 804,
+    "succeed": 862,
+    "total": 899,
     "risk": 0.96
   },
   "Walk in the park": {
-    "succeed": 403,
-    "total": 475,
-    "risk": 0.85
+    "succeed": 458,
+    "total": 535,
+    "risk": 0.86
   },
   "Quite likely": {
-    "succeed": 276,
-    "total": 368,
+    "succeed": 312,
+    "total": 417,
     "risk": 0.75
   },
   "Hmmm....": {
-    "succeed": 110,
-    "total": 162,
-    "risk": 0.68
+    "succeed": 121,
+    "total": 180,
+    "risk": 0.67
   },
   "Risky": {
-    "succeed": 71,
-    "total": 155,
-    "risk": 0.46
+    "succeed": 79,
+    "total": 180,
+    "risk": 0.44
   },
   "Gamble": {
-    "succeed": 77,
-    "total": 167,
+    "succeed": 84,
+    "total": 181,
     "risk": 0.46
   },
   "Rather detrimental": {
-    "succeed": 37,
-    "total": 141,
-    "risk": 0.26
+    "succeed": 44,
+    "total": 156,
+    "risk": 0.28
   },
   "Playing with fire": {
-    "succeed": 22,
-    "total": 121,
+    "succeed": 24,
+    "total": 134,
     "risk": 0.18
   },
   "Suicide mission": {
     "succeed": 23,
-    "total": 173,
-    "risk": 0.13
+    "total": 187,
+    "risk": 0.12
   },
   "Impossible": {
     "succeed": 0,
-    "total": 101,
+    "total": 102,
     "risk": 0
   }
 }

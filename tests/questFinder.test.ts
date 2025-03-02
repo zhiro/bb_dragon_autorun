@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { findBestQuest } from "../src/findBestQuest";
+import { findBestQuest } from "../src/questing/findBestQuest";
 
 describe("getBestQuest", () => {
     it("returns the quest with the highest reward-to-expiration ratio", () => {

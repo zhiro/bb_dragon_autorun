@@ -11,9 +11,12 @@ export async function fetchQuestList(gameId : string ) : Promise<any[]> {
         console.log(`Fetching quests for Game ID: ${gameId}`);
 
         const response = await axios.get(`https://dragonsofmugloar.com/api/v2/${gameId}/messages`);
+
+        const questList = response.data;
         // console.log(JSON.stringify(questList, null, 2));
 
-        return response.data;
+        return questList;
+        // return response.data;
 
     } catch (error: any) {
         console.error("Error fetching quests:", error.message);

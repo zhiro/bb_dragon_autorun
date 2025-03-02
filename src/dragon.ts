@@ -1,16 +1,18 @@
 import fs from "fs";
 import path from "path";
-import {fetchQuestList}   from "./questList";
-import {findBestQuest}     from "./findBestQuest";
-import {attemptQuest}     from "./attemptQuest";
-import {updateQuestStats} from "./updateQuestStats";
-import {startNewGame}     from "./startNewGame";
-import {getShopInventory} from "./viewShop";
-import {buyItemFromShop} from "./buyItemFromShop";
+import {fetchQuestList} from "./questing/fetchQuestList";
+import {findBestQuest} from "./questing/findBestQuest";
+import {attemptQuest} from "./questing/attemptQuest";
+import {updateQuestStats} from "./questing/updateQuestStats";
+import {startNewGame} from "./startNewGame";
+import {getShopInventory} from "./shopping/viewShop";
+import {buyItemFromShop} from "./shopping/buyItemFromShop";
+import {restForATurn} from "./restForATurn";
 
 const SAVE_FILE_PATH = path.join(__dirname, "data", "saveFile.json");
+const restDayLimit = 10;
 
-async function runGame() {
+export async function runGame() {
     try {
 
         await startNewGame();
@@ -21,6 +23,8 @@ async function runGame() {
 
         let saveData = JSON.parse(fs.readFileSync(SAVE_FILE_PATH, "utf-8"));
         const gameId = saveData.gameId;
+
+        let restDayCounter = 0;
 
         if (!gameId) {
             throw new Error("Game ID not found in saveFile.json");
@@ -45,21 +49,27 @@ async function runGame() {
                 break;
             }
 
-            const bestQuest = questList.find(quest => quest.adId === bestQuestId);
-            console.log(JSON.stringify(bestQuest, null, 2));
+            if (bestQuestId == "restForADay" && restDayCounter < restDayLimit) {
+                await restForATurn(gameId);
+                restDayCounter += 1;
+            } else {
+
+                // Only here to get probability name to update the stats - move this inside attemptQuest?
+                const bestQuest = questList.find(quest => quest.adId === bestQuestId);
+                console.log(JSON.stringify(bestQuest, null, 2));
 
 
-            const success = await attemptQuest(gameId, bestQuestId);
-            await updateQuestStats(bestQuest.probability, success);
+                const success = await attemptQuest(gameId, bestQuestId);
+                await updateQuestStats(bestQuest.probability, success);
 
 
+                saveData = JSON.parse(fs.readFileSync(SAVE_FILE_PATH, "utf-8"));
 
-            saveData = JSON.parse(fs.readFileSync(SAVE_FILE_PATH, "utf-8"));
-
-            if (saveData.lives <= 0) {
-                console.log("\n You have died. Try again!");
-                console.log(JSON.stringify(saveData, null, 2));
-                break;
+                if (saveData.lives <= 0) {
+                    console.log("\n You have died. Try again!");
+                    console.log(JSON.stringify(saveData, null, 2));
+                    break;
+                }
             }
 
             if (saveData.lives <= 1 && saveData.gold >= 50) {
@@ -67,11 +77,9 @@ async function runGame() {
                 // parse it from name "Healing potion" to get cost and id
 
                 await buyItemFromShop(gameId, "hpot")
-            }
-            else if (saveData.gold >= 300) {
+            } else if (saveData.gold >= 300) {
                 await buyItemFromShop(gameId, "iron")
-            }
-            else if (saveData.gold >= 100) {
+            } else if (saveData.gold >= 100) {
                 await buyItemFromShop(gameId, "ch")
             }
 

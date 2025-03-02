@@ -8,9 +8,8 @@ export async function findBestQuest(quests: any[]): Promise<string | null> {
         }
 
         let bestQuestId = null;
+        let bestQuestDifficultyModifier = null;
         let highestQuestScore = -Infinity;
-
-
 
         for (const quest of quests) {
             if (quest.encrypted == null) {
@@ -22,15 +21,25 @@ export async function findBestQuest(quests: any[]): Promise<string | null> {
                     const difficulty = getQuestDifficulty(quest.probability);
 
                     const safetyBoost = difficulty >= 0.7 ? 2 : 1;
+                    const penalty = (1 - difficulty) * 0.5;
 
-                    const questScore = (quest.reward * difficulty * safetyBoost) / Math.sqrt(quest.expiresIn);
+                    const expirationWeight = 1 + (quest.expiresIn - 1) * 0.1;
+
+                    const questScore = (quest.reward * difficulty * safetyBoost) / (expirationWeight + penalty);
+
+                    console.log(`|risk:${String(difficulty).padEnd(4)}|score:${String(questScore.toFixed(2)).padEnd(5)}|${quest.adId}`);
 
                     if (questScore > highestQuestScore) {
                         highestQuestScore = questScore;
                         bestQuestId = quest.adId;
+                        bestQuestDifficultyModifier = quest.difficulty;
                     }
                 }
             }
+        }
+
+        if (bestQuestDifficultyModifier <= 0.5) {
+            bestQuestId = "restForADay";
         }
 
         if (!bestQuestId) {
