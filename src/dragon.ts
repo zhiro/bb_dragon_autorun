@@ -37,8 +37,7 @@ export async function runGame() {
 
         while (saveData.lives > 0) {
 
-            let questList = await fetchQuestList(gameId);
-            turnCounter = await findAndAttemptBestQuest(gameId, questList, turnCounter);
+            turnCounter = await findAndAttemptBestQuest(gameId, turnCounter, saveData.gold);
 
             saveData = JSON.parse(fs.readFileSync(SAVE_FILE_PATH, "utf-8"));
 
@@ -53,21 +52,14 @@ export async function runGame() {
                 // parse it from name "Healing potion" to get cost and id
                 await buyItemFromShop(gameId, "hpot")
                 turnCounter++;
-            } else if (saveData.gold >= 300) {
-                await buyItemFromShop(gameId, "iron")
-                turnCounter++;
-            } else if (saveData.gold >= 100) {
-                await buyItemFromShop(gameId, "cs")
-                turnCounter++;
             }
 
-            console.log("----------------------------------------------------------");
+            console.log("###################################################");
         }
 
         // lisa poes vaatamine
         // lisa poest ostmine
         // returni questScore ja võrdle selle vastu kas on mõtet korda oodata
-        // lisa puhkamine, et oodata paremaid queste
 
 
     } catch (error) {
