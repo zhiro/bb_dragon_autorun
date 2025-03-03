@@ -1,0 +1,23 @@
+{
+  "name": "bb_dragon_autorun",
+  "version": "0.3.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.5",
+    "happy-dom": "^17.1.8",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3",
+    "vitest": "^3.0.7"
+  }
+}
