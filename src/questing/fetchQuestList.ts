@@ -1,10 +1,6 @@
 #!/usr/bin/env node
 
 import axios from "axios";
-import fs from "fs";
-import path from "path";
-
-const SAVE_FILE_PATH = path.join(__dirname, "../data", "saveFile.json");
 
 export async function fetchQuestList(gameId : string ) : Promise<any[]> {
     try {
@@ -12,21 +8,10 @@ export async function fetchQuestList(gameId : string ) : Promise<any[]> {
 
         const response = await axios.get(`https://dragonsofmugloar.com/api/v2/${gameId}/messages`);
 
-        const questList = response.data;
-        // console.log(JSON.stringify(questList, null, 2));
-
-        return questList;
-        // return response.data;
+        return response.data;
 
     } catch (error: any) {
         console.error("Error fetching quests:", error.message);
         return [];
     }
-}
-
-if (require.main === module) {
-    const saveData = JSON.parse(fs.readFileSync(SAVE_FILE_PATH, "utf-8"));
-    const gameId = saveData.gameId;
-
-    fetchQuestList(gameId);
 }
