@@ -3,7 +3,7 @@
 import fs from "fs";
 import path from "path";
 
-const STATS_FILE_PATH = path.join(__dirname, "data", "questStats.json");
+const STATS_FILE_PATH = path.join(__dirname, "../data", "questStats.json");
 
 export async function updateQuestStats(probability: string, success: boolean) {
     try {

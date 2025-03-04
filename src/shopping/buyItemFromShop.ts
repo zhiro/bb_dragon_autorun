@@ -4,7 +4,7 @@ import axios from "axios";
 import fs from "fs";
 import path from "path";
 
-const SAVE_FILE_PATH = path.join(__dirname, "data", "saveFile.json");
+const SAVE_FILE_PATH = path.join(__dirname, "../data", "saveFile.json");
 
 export async function buyItemFromShop(gameId: string, itemId: string) {
     try {

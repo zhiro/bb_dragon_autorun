@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 
-const STATS_FILE_PATH = path.join(__dirname, "data", "questStats.json");
+const STATS_FILE_PATH = path.join(__dirname, "../data", "questStats.json");
 
 export function getQuestDifficulty(risk: string): number {
     try {
