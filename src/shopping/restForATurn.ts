@@ -1,4 +1,4 @@
-import {buyItemFromShop} from "./shopping/buyItemFromShop";
+import {buyItemFromShop} from "./buyItemFromShop";
 
 
 export async function restForATurn(gameId: string) {
