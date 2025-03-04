@@ -1,25 +1,16 @@
 import fs from "fs";
 import path from "path";
-import {fetchQuestList} from "./questing/fetchQuestList";
-import {findAndAttemptBestQuest} from "./questing/findAndAttemptBestQuest";
-import {attemptQuest} from "./questing/attemptQuest";
-import {updateQuestStats} from "./questing/updateQuestStats";
 import {startNewGame} from "./startNewGame";
-import {getShopInventory} from "./shopping/viewShop";
-import {buyItemFromShop} from "./shopping/buyItemFromShop";
-import {restForATurn} from "./restForATurn";
-
+import {findAndAttemptBestQuest} from "./questing/findAndAttemptBestQuest";
 
 const SAVE_FILE_PATH = path.join(__dirname, "data", "saveFile.json");
-const restDayLimit = 10;
 
 export async function runGame() {
     try {
-
         await startNewGame();
 
         if (!fs.existsSync(SAVE_FILE_PATH)) {
-            throw new Error("saveFile.json not found! Start the game first.");
+            throw new Error("saveFile.json not found! Re-start the game.");
         }
 
         let saveData = JSON.parse(fs.readFileSync(SAVE_FILE_PATH, "utf-8"));
@@ -43,20 +34,8 @@ export async function runGame() {
                 console.log(JSON.stringify(saveData, null, 2));
                 break;
             }
-
-            // if (saveData.lives <= 1 && saveData.gold >= 50) {
-            //     // make a func to check for healing pot availablilty
-            //     // parse it from name "Healing potion" to get cost and id
-            //     await buyItemFromShop(gameId, "hpot")
-            //     turnCounter++;
-            // }
             console.log("########################################################################");
         }
-
-        // lisa poes vaatamine
-        // lisa poest ostmine
-        // returni questScore ja võrdle selle vastu kas on mõtet korda oodata
-
 
     } catch (error) {
         console.error("Error running game:", error);
