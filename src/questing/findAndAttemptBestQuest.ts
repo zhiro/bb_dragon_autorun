@@ -4,6 +4,7 @@ import { updateQuestStats } from "./updateQuestStats";
 import { restForATurn } from "../restForATurn";
 import { fetchQuestList } from "./fetchQuestList";
 import {buyItemFromShop} from "../shopping/buyItemFromShop";
+import {tryToImproveOdds} from "../tryToImproveOdds";
 
 
 export async function findAndAttemptBestQuest(gameId : string, skippedTurns: number, gold: number) : Promise<number> {
@@ -18,7 +19,10 @@ export async function findAndAttemptBestQuest(gameId : string, skippedTurns: num
         let bestQuestId = "";
         let bestQuestDifficultyModifier = 0;
         let bestQuestProbability = "";
-        let highestQuestScore = -Infinity;
+        let bestQuestScore = -Infinity;
+
+
+        console.log(`id      |risk|score |exp`)
 
         for (const quest of questList) {
             if (quest.encrypted == null) {
@@ -36,11 +40,22 @@ export async function findAndAttemptBestQuest(gameId : string, skippedTurns: num
 
                     const questScore = (quest.reward * difficulty * safetyBoost) / (expirationWeight + penalty);
 
-                    console.log(`risk:${String(difficulty).padEnd(4)}|score:${String(questScore.toFixed(2)).padEnd(5)}|${quest.adId}`);
+                    console.log(`${quest.adId}|${String(difficulty).padEnd(4)}|${String(questScore.toFixed(2)).padEnd(6)}|${quest.expiresIn}`);
 
-                    if (questScore > highestQuestScore) {
-                        highestQuestScore = questScore;
+                    // prefer the easiest quests
+                    // Logic goes to infinite loop if all quests are 0 (impossible)
+
+                    // need to make this selection easier not this complicated
+
+                    if (
+                            (questScore > bestQuestScore + 10) || // Always pick the highest score if difference is big
+                            (Math.abs(questScore - bestQuestScore) < 10 && difficulty > bestQuestDifficultyModifier) || // Prefer difficulty if scores are close
+                            (questScore === bestQuestScore && difficulty > bestQuestDifficultyModifier) // Tie-breaker by difficulty
+                        )
+
+                    {
                         bestQuestId = quest.adId;
+                        bestQuestScore = questScore;
                         bestQuestDifficultyModifier = difficulty;
                         bestQuestProbability = quest.probability;
                     }
@@ -48,33 +63,45 @@ export async function findAndAttemptBestQuest(gameId : string, skippedTurns: num
             }
         }
 
-        console.log(`Best quest found: ${bestQuestId} (Ratio: ${highestQuestScore.toFixed(2)}) - (diff: ${bestQuestDifficultyModifier})`);
+        if (bestQuestId !== "") {
+            console.log(`Best quest found: ${bestQuestId} (Ratio: ${bestQuestScore.toFixed(2)}) - (diff: ${bestQuestDifficultyModifier})`);
+        }
 
         // KUI MODIFIER ON SITT SIIS TEE PAREM OSTMINE, KUI OSTA EI SAA SIIS PUHKA NIISAMA
         // tryToImproveOdds()
         // PANE PUHKAMINE SHOPPING FUNCI SISSE
 
 
-        if (bestQuestDifficultyModifier <= 0.7 && skippedTurns < 7) {
-            console.log("+++++++++++++++++++++++++++++++++++++++++++++++++++++++")
-            console.log(`No good quests. Resting turn ${skippedTurns + 1}/7...`);
+        // if (bestQuestDifficultyModifier <= 0.1 && skippedTurns < 7) {
+        // if (bestQuestDifficultyModifier < 0.5 && skippedTurns < 7) {
+        //     console.log("+++++++++++++++++++++++++++++++++++++++++++++++++++++++")
+        //     console.log(`No good quests. Resting turn ${skippedTurns + 1}/7...`);
+        //
+        //     await restForATurn(gameId);
+        //
+        //     return skippedTurns + 1;
+        // }
+        if (bestQuestDifficultyModifier < 0.9 && skippedTurns < 7) {
 
-            if (gold >= 300) {
-                await buyItemFromShop(gameId, "iron")
-            } else if (gold >= 100) {
-                await buyItemFromShop(gameId, "gas")
+            const wentShopping = await tryToImproveOdds(gameId, gold);
+
+            if (wentShopping) {
+                return skippedTurns + 1;
+            } else {
+                if (bestQuestDifficultyModifier < 0.5) {
+                    console.log("+++++++++++++++++++++++++++++++++++++++++++++++++++++++")
+                    console.log(`No good quests. Resting turn ${skippedTurns + 1}/7...`);
+                    await restForATurn(gameId);
+                    return skippedTurns + 1;
+                }
             }
-            else if (bestQuestDifficultyModifier <= 0.5 && gold < 100) {
-                await restForATurn(gameId);
-            }
-            return skippedTurns + 1;
         }
 
         console.log("------------------")
         const success = await attemptQuest(gameId, bestQuestId);
         // await updateQuestStats(bestQuestProbability, success);
-
         return 0;
+
 
     } catch (error: any) {
         console.error("Error parsing quests:", error.message);
