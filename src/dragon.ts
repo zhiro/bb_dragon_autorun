@@ -43,6 +43,7 @@ export async function runGame() {
 
             if (saveData.lives <= 0) {
                 console.log("\n You have died. Try again!");
+                console.log("\n Final stats:");
                 console.log(JSON.stringify(saveData, null, 2));
                 break;
             }
@@ -52,9 +53,14 @@ export async function runGame() {
                 // parse it from name "Healing potion" to get cost and id
                 await buyItemFromShop(gameId, "hpot")
                 turnCounter++;
+            // } else if (saveData.gold >= 300) {
+            //     await buyItemFromShop(gameId, "iron")
+            //     turnCounter++;
+            // } else if (saveData.gold >= 100) {
+            //     await buyItemFromShop(gameId, "gas")
+            //     turnCounter++;
             }
-
-            console.log("###################################################");
+            console.log("########################################################################");
         }
 
         // lisa poes vaatamine

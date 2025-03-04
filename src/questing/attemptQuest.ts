@@ -4,8 +4,8 @@ import axios from "axios";
 import fs from "fs";
 import path from "path";
 
-const SAVE_FILE_PATH = path.join(__dirname, "data", "saveFile.json");
-const STATS_FILE_PATH = path.join(__dirname, "data", "questStats.json");
+const SAVE_FILE_PATH = path.join(__dirname, "../data", "saveFile.json");
+
 
 export async function attemptQuest(gameId: string, adId: string): Promise<boolean> {
     try {
@@ -20,7 +20,7 @@ export async function attemptQuest(gameId: string, adId: string): Promise<boolea
             throw new Error("Game ID or Quest ID is missing!");
         }
 
-        console.log(`Attempting to solve quest: ${adId} for Game ID: ${gameId}`);
+        console.log(`Attempting to solve quest: ${adId}`);
 
         const response = await axios.post(`https://dragonsofmugloar.com/api/v2/${gameId}/solve/${adId}`);
         const result = response.data;
