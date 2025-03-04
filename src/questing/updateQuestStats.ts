@@ -30,7 +30,7 @@ export async function updateQuestStats(probability: string, success: boolean) {
 
         fs.writeFileSync(STATS_FILE_PATH, JSON.stringify(questStats, null, 2));
 
-        console.log(`Updated quest stats:`, questStats[probability]);
+        // console.log(`Updated quest stats:`, questStats[probability]);
     } catch (error) {
         console.error("Error updating quest stats:", error);
     }

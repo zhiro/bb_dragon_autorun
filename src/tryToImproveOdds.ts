@@ -2,7 +2,7 @@ import {buyItemFromShop} from "./shopping/buyItemFromShop";
 import {getShopInventory} from "./shopping/viewShop";
 
 
-export async function tryToImproveOdds(gameId: string, gold: number) {
+export async function tryToImproveOdds(gameId: string, gold: number, lives: number) {
 
     const storeInventory = await getShopInventory(gameId)
 
@@ -20,6 +20,9 @@ export async function tryToImproveOdds(gameId: string, gold: number) {
 
     const itemId = bestItems[Math.floor(Math.random() * bestItems.length)].id;
 
+    if (itemId == "hpot" && lives >= 6) {
+        return false;
+    }
     await buyItemFromShop(gameId, itemId);
 
     return true;

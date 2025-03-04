@@ -6,7 +6,8 @@ import path from "path";
 
 export async function getShopInventory(gameId : string ) : Promise<any[]> {
     try {
-        console.log(`Fetching store inventory for Game ID: ${gameId}...`);
+        console.log("--------------------------------------------------");
+        console.log(`Checking store inventory for Game ID: ${gameId}...`);
 
         const response = await axios.get(`https://dragonsofmugloar.com/api/v2/${gameId}/shop`);
         return response.data;

@@ -18,7 +18,7 @@ export async function buyItemFromShop(gameId: string, itemId: string) {
         const response = await axios.post(`https://dragonsofmugloar.com/api/v2/${gameId}/shop/buy/${itemId}`);
         const result = response.data;
 
-        console.log("Response from API:\n", `buying ${itemId}\n`, result);
+        console.log(`Buying ${itemId}\n`, result);
 
         saveData.gold = result.gold;
         saveData.lives = result.lives;

@@ -31,13 +31,9 @@ export async function runGame() {
             throw new Error("Game ID not found in saveFile.json");
         }
 
-        // If inventory changed after buying then would move within the loop
-        const storeInventory = await getShopInventory(gameId);
-
-
         while (saveData.lives > 0) {
 
-            turnCounter = await findAndAttemptBestQuest(gameId, turnCounter, saveData.gold);
+            turnCounter = await findAndAttemptBestQuest(gameId, turnCounter, saveData.gold, saveData.lives);
 
             saveData = JSON.parse(fs.readFileSync(SAVE_FILE_PATH, "utf-8"));
 
@@ -48,18 +44,12 @@ export async function runGame() {
                 break;
             }
 
-            if (saveData.lives <= 1 && saveData.gold >= 50) {
-                // make a func to check for healing pot availablilty
-                // parse it from name "Healing potion" to get cost and id
-                await buyItemFromShop(gameId, "hpot")
-                turnCounter++;
-            // } else if (saveData.gold >= 300) {
-            //     await buyItemFromShop(gameId, "iron")
+            // if (saveData.lives <= 1 && saveData.gold >= 50) {
+            //     // make a func to check for healing pot availablilty
+            //     // parse it from name "Healing potion" to get cost and id
+            //     await buyItemFromShop(gameId, "hpot")
             //     turnCounter++;
-            // } else if (saveData.gold >= 100) {
-            //     await buyItemFromShop(gameId, "gas")
-            //     turnCounter++;
-            }
+            // }
             console.log("########################################################################");
         }
 

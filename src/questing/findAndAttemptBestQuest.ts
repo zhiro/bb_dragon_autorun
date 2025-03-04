@@ -3,11 +3,10 @@ import { attemptQuest } from "./attemptQuest";
 import { updateQuestStats } from "./updateQuestStats";
 import { restForATurn } from "../restForATurn";
 import { fetchQuestList } from "./fetchQuestList";
-import {buyItemFromShop} from "../shopping/buyItemFromShop";
-import {tryToImproveOdds} from "../tryToImproveOdds";
+import { tryToImproveOdds } from "../tryToImproveOdds";
 
 
-export async function findAndAttemptBestQuest(gameId : string, skippedTurns: number, gold: number) : Promise<number> {
+export async function findAndAttemptBestQuest(gameId : string, skippedTurns: number, gold: number, lives: number) : Promise<number> {
     try {
 
         const questList = await fetchQuestList(gameId);
@@ -43,7 +42,7 @@ export async function findAndAttemptBestQuest(gameId : string, skippedTurns: num
                     console.log(`${quest.adId}|${String(difficulty).padEnd(4)}|${String(questScore.toFixed(2)).padEnd(6)}|${quest.expiresIn}`);
 
                     // prefer the easiest quests
-                    // Logic goes to infinite loop if all quests are 0 (impossible)
+
 
                     // need to make this selection easier not this complicated
 
@@ -67,39 +66,25 @@ export async function findAndAttemptBestQuest(gameId : string, skippedTurns: num
             console.log(`Best quest found: ${bestQuestId} (Ratio: ${bestQuestScore.toFixed(2)}) - (diff: ${bestQuestDifficultyModifier})`);
         }
 
-        // KUI MODIFIER ON SITT SIIS TEE PAREM OSTMINE, KUI OSTA EI SAA SIIS PUHKA NIISAMA
-        // tryToImproveOdds()
-        // PANE PUHKAMINE SHOPPING FUNCI SISSE
+        if (bestQuestDifficultyModifier < 0.9 && skippedTurns < 4) {
 
-
-        // if (bestQuestDifficultyModifier <= 0.1 && skippedTurns < 7) {
-        // if (bestQuestDifficultyModifier < 0.5 && skippedTurns < 7) {
-        //     console.log("+++++++++++++++++++++++++++++++++++++++++++++++++++++++")
-        //     console.log(`No good quests. Resting turn ${skippedTurns + 1}/7...`);
-        //
-        //     await restForATurn(gameId);
-        //
-        //     return skippedTurns + 1;
-        // }
-        if (bestQuestDifficultyModifier < 0.9 && skippedTurns < 7) {
-
-            const wentShopping = await tryToImproveOdds(gameId, gold);
+            const wentShopping = await tryToImproveOdds(gameId, gold, lives);
 
             if (wentShopping) {
                 return skippedTurns + 1;
             } else {
                 if (bestQuestDifficultyModifier < 0.5) {
                     console.log("+++++++++++++++++++++++++++++++++++++++++++++++++++++++")
-                    console.log(`No good quests. Resting turn ${skippedTurns + 1}/7...`);
+                    console.log(`No good quests. Resting turn ${skippedTurns + 1}/4...`);
                     await restForATurn(gameId);
                     return skippedTurns + 1;
                 }
             }
         }
 
-        console.log("------------------")
+        console.log("--------------------------------------------------")
         const success = await attemptQuest(gameId, bestQuestId);
-        // await updateQuestStats(bestQuestProbability, success);
+        await updateQuestStats(bestQuestProbability, success);
         return 0;
 
 

@@ -1,0 +1,5044 @@
+L6MWBuy4|0.85|44.66 |7
+Best quest found: xhtx3uf6 (Ratio: 140.61) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wax
+ { shoppingSuccess: true, gold: 59, lives: 6, level: 6, turn: 25 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+ie2JylD7|0.75|24.67 |1
+XOgf1iXT|0.28|4.94  |1
+WV8Kg2KI|0.96|138.49|3
+xhtx3uf6|0.85|150.84|4
+kxRdmUhc|0.44|33.97 |4
+OLCcTDba|0.44|29.80 |4
+XJo2S8oK|0.18|8.65  |5
+UWqFsxFC|0.85|44.25 |6
+L6MWBuy4|0.85|47.49 |6
+A9ktE7Zb|0.67|45.17 |7
+Best quest found: xhtx3uf6 (Ratio: 150.84) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+--------------------------------------------------
+Attempting to solve quest: xhtx3uf6
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 181,
+  score: 1031,
+  highScore: 0,
+  turn: 26,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+WV8Kg2KI|0.96|150.86|2
+kxRdmUhc|0.44|36.27 |3
+OLCcTDba|0.44|31.81 |3
+XJo2S8oK|0.18|9.16  |4
+UWqFsxFC|0.85|47.25 |5
+L6MWBuy4|0.85|50.71 |5
+A9ktE7Zb|0.67|47.89 |6
+xs5Z4hzG|0.96|221.63|7
+Best quest found: xs5Z4hzG (Ratio: 221.63) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: xs5Z4hzG
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 368,
+  score: 1218,
+  highScore: 0,
+  turn: 27,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+WV8Kg2KI|0.96|165.65|1
+kxRdmUhc|0.44|38.90 |2
+OLCcTDba|0.44|34.12 |2
+XJo2S8oK|0.18|9.73  |3
+UWqFsxFC|0.85|50.69 |4
+L6MWBuy4|0.85|54.40 |4
+A9ktE7Zb|0.67|50.95 |5
+Best quest found: WV8Kg2KI (Ratio: 165.65) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: WV8Kg2KI
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 456,
+  score: 1306,
+  highScore: 0,
+  turn: 28,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+kxRdmUhc|0.44|41.94 |1
+OLCcTDba|0.44|36.78 |1
+XJo2S8oK|0.18|10.37 |2
+UWqFsxFC|0.85|54.67 |3
+L6MWBuy4|0.85|58.67 |3
+A9ktE7Zb|0.67|54.42 |4
+kkwzFAtf|0.96|56.89 |7
+ToGccGL9|0.96|201.48|7
+Best quest found: ToGccGL9 (Ratio: 201.48) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: ToGccGL9
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 626,
+  score: 1476,
+  highScore: 0,
+  turn: 29,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+XJo2S8oK|0.18|11.11 |1
+UWqFsxFC|0.85|59.32 |2
+L6MWBuy4|0.85|63.66 |2
+A9ktE7Zb|0.67|58.41 |3
+kkwzFAtf|0.96|60.63 |6
+aVJ5rbpg|1   |200.00|7
+SJ3JzjrP|0.85|160.36|7
+Best quest found: aVJ5rbpg (Ratio: 200.00) - (diff: 1)
+--------------------------------------------------
+Attempting to solve quest: aVJ5rbpg
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 786,
+  score: 1636,
+  highScore: 0,
+  turn: 30,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+UWqFsxFC|0.85|64.84 |1
+L6MWBuy4|0.85|69.58 |1
+A9ktE7Zb|0.67|63.03 |2
+kkwzFAtf|0.96|64.90 |5
+SJ3JzjrP|0.85|170.54|6
+Best quest found: SJ3JzjrP (Ratio: 170.54) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 486, lives: 6, level: 8, turn: 31 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+A9ktE7Zb|0.67|68.44 |1
+kkwzFAtf|0.96|69.82 |4
+SJ3JzjrP|0.85|182.10|5
+MXNuTIDN|0.75|57.83 |7
+r7jPTi4c|0.96|173.04|7
+K3i4tHua|1   |200.00|7
+XFwX4joR|0.44|36.04 |7
+Best quest found: K3i4tHua (Ratio: 200.00) - (diff: 1)
+--------------------------------------------------
+Attempting to solve quest: K3i4tHua
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 646,
+  score: 1796,
+  highScore: 0,
+  turn: 32,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+kkwzFAtf|0.96|75.54 |3
+SJ3JzjrP|0.85|195.35|4
+MXNuTIDN|0.75|61.38 |6
+r7jPTi4c|0.96|184.42|6
+XFwX4joR|0.44|38.07 |6
+3ErKdkmS|0.47|37.30 |7
+Best quest found: SJ3JzjrP (Ratio: 195.35) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 346, lives: 6, level: 10, turn: 33 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+kkwzFAtf|1   |87.27 |2
+SJ3JzjrP|0.85|210.67|3
+MXNuTIDN|0.85|153.29|5
+r7jPTi4c|0.96|197.41|5
+XFwX4joR|0.47|43.47 |5
+3ErKdkmS|0.67|59.56 |6
+Best quest found: SJ3JzjrP (Ratio: 210.67) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 46, lives: 6, level: 12, turn: 34 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+kkwzFAtf|1   |96.00 |1
+SJ3JzjrP|0.96|270.86|2
+MXNuTIDN|0.85|164.44|4
+r7jPTi4c|0.96|212.36|4
+XFwX4joR|0.47|46.25 |4
+3ErKdkmS|0.67|63.36 |5
+Best quest found: SJ3JzjrP (Ratio: 270.86) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: SJ3JzjrP
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 204,
+  score: 1954,
+  highScore: 0,
+  turn: 35,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+MXNuTIDN|0.85|177.33|3
+r7jPTi4c|0.96|229.77|3
+XFwX4joR|0.47|49.41 |3
+3ErKdkmS|0.67|67.69 |4
+9dGMaS45|0.96|282.07|7
+uwBfxybr|0.85|238.51|7
+BQIVxtJi|0.67|77.82 |7
+Best quest found: 9dGMaS45 (Ratio: 282.07) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: 9dGMaS45
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 442,
+  score: 2192,
+  highScore: 0,
+  turn: 36,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+MXNuTIDN|0.85|192.43|2
+r7jPTi4c|0.96|250.29|2
+XFwX4joR|0.47|53.03 |2
+3ErKdkmS|0.67|72.64 |3
+uwBfxybr|0.85|253.65|6
+BQIVxtJi|0.67|82.49 |6
+Z5y16ugU|1   |291.25|7
+x0EQQPed|0.85|212.12|7
+Best quest found: Z5y16ugU (Ratio: 291.25) - (diff: 1)
+--------------------------------------------------
+Attempting to solve quest: Z5y16ugU
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 675,
+  score: 2425,
+  highScore: 0,
+  turn: 37,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+MXNuTIDN|0.85|210.33|1
+r7jPTi4c|0.96|274.82|1
+XFwX4joR|0.47|57.22 |1
+3ErKdkmS|0.67|78.39 |2
+uwBfxybr|0.85|270.85|5
+BQIVxtJi|0.67|87.76 |5
+x0EQQPed|0.85|225.59|6
+hUhzx7QF|0.18|17.73 |7
+oW48iCbJ|0.96|221.63|7
+vk91PX5c|0.96|247.70|7
+Best quest found: r7jPTi4c (Ratio: 274.82) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: r7jPTi4c
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 821,
+  score: 2571,
+  highScore: 0,
+  turn: 38,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+3ErKdkmS|0.67|85.12 |1
+uwBfxybr|0.85|290.55|4
+BQIVxtJi|0.67|93.75 |4
+x0EQQPed|0.85|240.88|5
+hUhzx7QF|0.18|18.66 |6
+oW48iCbJ|0.96|236.21|6
+vk91PX5c|0.96|264.00|6
+9lamvTYv|0.96|206.22|7
+SBXTtsVL|0.96|263.11|7
+oc0cH5VU|0.85|147.16|7
+Best quest found: uwBfxybr (Ratio: 290.55) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 521, lives: 6, level: 14, turn: 39 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+uwBfxybr|0.85|313.33|3
+BQIVxtJi|0.75|116.04|3
+x0EQQPed|0.96|304.00|4
+hUhzx7QF|0.28|31.50 |5
+oW48iCbJ|0.96|252.85|5
+vk91PX5c|0.96|282.59|5
+9lamvTYv|0.96|219.79|6
+SBXTtsVL|0.96|280.42|6
+oc0cH5VU|0.85|156.51|6
+cXp8T0AT|0.28|27.71 |7
+Best quest found: x0EQQPed (Ratio: 304.00) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: x0EQQPed
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 730,
+  score: 2780,
+  highScore: 0,
+  turn: 40,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+uwBfxybr|0.85|340.00|2
+BQIVxtJi|0.75|125.51|2
+hUhzx7QF|0.28|33.40 |4
+oW48iCbJ|0.96|272.00|4
+vk91PX5c|0.96|304.00|4
+9lamvTYv|0.96|235.27|5
+SBXTtsVL|0.96|300.17|5
+oc0cH5VU|0.85|167.12|5
+cXp8T0AT|0.28|29.20 |6
+pwJYqxI4|0.96|187.26|7
+Best quest found: uwBfxybr (Ratio: 340.00) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 430, lives: 6, level: 16, turn: 41 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+uwBfxybr|0.85|371.63|1
+BQIVxtJi|0.75|136.67|1
+hUhzx7QF|0.28|35.54 |3
+oW48iCbJ|0.96|294.30|3
+vk91PX5c|0.96|328.92|3
+9lamvTYv|0.96|253.09|4
+SBXTtsVL|0.96|322.91|4
+oc0cH5VU|0.85|179.27|4
+cXp8T0AT|0.44|50.81 |5
+pwJYqxI4|0.96|199.58|6
+Best quest found: uwBfxybr (Ratio: 371.63) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 130, lives: 6, level: 18, turn: 42 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+hUhzx7QF|0.44|63.13 |2
+oW48iCbJ|0.96|320.57|2
+vk91PX5c|0.96|358.29|2
+9lamvTYv|0.96|273.84|3
+SBXTtsVL|0.96|349.38|3
+oc0cH5VU|0.85|193.33|3
+cXp8T0AT|0.44|54.03 |4
+pwJYqxI4|0.96|213.63|5
+dF5TwkEp|0.44|58.98 |7
+fxNl0PX3|0.96|271.41|7
+Best quest found: vk91PX5c (Ratio: 358.29) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: vk91PX5c
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 339,
+  score: 2989,
+  highScore: 0,
+  turn: 43,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+hUhzx7QF|0.44|68.06 |1
+oW48iCbJ|0.96|352.00|1
+9lamvTYv|0.96|298.29|2
+SBXTtsVL|0.96|380.57|2
+oc0cH5VU|0.85|209.79|2
+cXp8T0AT|0.44|57.68 |3
+pwJYqxI4|0.96|229.82|4
+dF5TwkEp|0.44|62.29 |6
+fxNl0PX3|0.96|289.26|6
+0yb8VKnC|0.85|276.06|7
+Best quest found: SBXTtsVL (Ratio: 380.57) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: SBXTtsVL
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 561,
+  score: 3211,
+  highScore: 0,
+  turn: 44,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+9lamvTYv|0.96|327.53|1
+oc0cH5VU|0.85|229.30|1
+cXp8T0AT|0.44|61.86 |2
+pwJYqxI4|0.96|248.66|3
+dF5TwkEp|0.44|66.00 |5
+fxNl0PX3|0.96|309.63|5
+0yb8VKnC|0.85|293.59|6
+NRX1rnwQ|0.96|269.04|7
+y1edPR7m|0.47|46.62 |7
+rS0CtHp1|0.96|282.07|7
+Best quest found: 9lamvTYv (Ratio: 327.53) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: 9lamvTYv
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 735,
+  score: 3385,
+  highScore: 0,
+  turn: 45,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+cXp8T0AT|0.44|66.69 |1
+pwJYqxI4|0.96|270.86|2
+dF5TwkEp|0.44|70.18 |4
+fxNl0PX3|0.96|333.09|4
+0yb8VKnC|0.85|313.49|5
+NRX1rnwQ|0.96|286.74|6
+y1edPR7m|0.47|49.26 |6
+rS0CtHp1|0.96|300.63|6
+vnvfIGfI|0.96|252.44|7
+HB3u20kn|0.85|205.01|7
+Best quest found: fxNl0PX3 (Ratio: 333.09) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: fxNl0PX3
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 964,
+  score: 3614,
+  highScore: 0,
+  turn: 46,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+pwJYqxI4|0.96|297.41|1
+dF5TwkEp|0.44|74.92 |3
+0yb8VKnC|0.85|336.29|4
+NRX1rnwQ|0.96|306.93|5
+y1edPR7m|0.47|52.22 |5
+rS0CtHp1|0.96|321.80|5
+vnvfIGfI|0.96|269.05|6
+HB3u20kn|0.85|218.03|6
+meg3j85a|0.67|63.77 |7
+rMfC9Jqf|0.85|230.39|7
+Best quest found: 0yb8VKnC (Ratio: 336.29) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 664, lives: 6, level: 20, turn: 47 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+dF5TwkEp|0.44|80.35 |2
+0yb8VKnC|0.85|362.67|3
+NRX1rnwQ|0.96|330.18|4
+y1edPR7m|0.47|55.56 |4
+rS0CtHp1|0.96|346.18|4
+vnvfIGfI|0.96|288.00|5
+HB3u20kn|0.85|232.81|5
+meg3j85a|0.75|77.54 |6
+rMfC9Jqf|0.85|245.02|6
+ovzJz7vN|0.47|50.91 |7
+Best quest found: 0yb8VKnC (Ratio: 362.67) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 364, lives: 6, level: 22, turn: 48 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+dF5TwkEp|0.47|93.63 |1
+0yb8VKnC|0.85|393.53|2
+NRX1rnwQ|0.96|357.25|3
+y1edPR7m|0.67|90.81 |3
+rS0CtHp1|0.96|374.56|3
+vnvfIGfI|0.96|309.82|4
+HB3u20kn|0.96|293.82|4
+meg3j85a|0.75|82.62 |5
+rMfC9Jqf|0.85|261.63|5
+ovzJz7vN|0.47|53.79 |6
+Best quest found: 0yb8VKnC (Ratio: 393.53) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 64, lives: 6, level: 24, turn: 49 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+0yb8VKnC|0.85|430.14|1
+NRX1rnwQ|0.96|389.14|2
+y1edPR7m|0.67|97.98 |2
+rS0CtHp1|0.96|408.00|2
+vnvfIGfI|0.96|335.21|3
+HB3u20kn|0.96|317.90|3
+meg3j85a|0.75|88.42 |4
+rMfC9Jqf|0.85|280.65|4
+ovzJz7vN|0.67|86.48 |5
+UzqkaOUY|1   |296.25|7
+Best quest found: 0yb8VKnC (Ratio: 430.14) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+--------------------------------------------------
+Attempting to solve quest: 0yb8VKnC
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 336,
+  score: 3886,
+  highScore: 0,
+  turn: 50,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+NRX1rnwQ|0.96|427.29|1
+y1edPR7m|0.67|106.39|1
+rS0CtHp1|0.96|448.00|1
+vnvfIGfI|0.96|365.14|2
+HB3u20kn|0.96|346.29|2
+meg3j85a|0.75|95.09 |3
+rMfC9Jqf|0.85|302.67|3
+ovzJz7vN|0.67|92.38 |4
+UzqkaOUY|1   |316.00|6
+hF31anma|0.85|189.79|7
+Best quest found: rS0CtHp1 (Ratio: 448.00) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: rS0CtHp1
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 574,
+  score: 4124,
+  highScore: 0,
+  turn: 51,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+vnvfIGfI|0.96|400.94|1
+HB3u20kn|0.96|380.24|1
+meg3j85a|0.75|102.86|2
+rMfC9Jqf|0.85|328.43|2
+ovzJz7vN|0.67|99.15 |3
+UzqkaOUY|1   |338.57|5
+hF31anma|0.85|201.84|6
+6n6XTvvh|0.96|318.81|7
+6jcwgkU9|0.85|279.10|7
+7nxYlEns|0.67|97.94 |7
+Best quest found: vnvfIGfI (Ratio: 400.94) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: vnvfIGfI
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 787,
+  score: 4337,
+  highScore: 0,
+  turn: 52,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+meg3j85a|0.75|112.00|1
+rMfC9Jqf|0.85|358.98|1
+ovzJz7vN|0.67|106.99|2
+UzqkaOUY|1   |364.62|4
+hF31anma|0.85|215.53|5
+6n6XTvvh|0.96|339.79|6
+6jcwgkU9|0.85|296.83|6
+7nxYlEns|0.67|103.82|6
+fajpQDwR|0.75|81.30 |7
+yUdYZbw6|1   |267.50|7
+Best quest found: UzqkaOUY (Ratio: 364.62) - (diff: 1)
+--------------------------------------------------
+Attempting to solve quest: UzqkaOUY
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 1024,
+  score: 4574,
+  highScore: 0,
+  turn: 53,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+ovzJz7vN|0.67|116.17|1
+hF31anma|0.85|231.20|4
+6n6XTvvh|0.96|363.72|5
+6jcwgkU9|0.85|316.95|5
+7nxYlEns|0.67|110.45|5
+fajpQDwR|0.75|86.31 |6
+yUdYZbw6|1   |285.33|6
+ubFSZqoO|0.44|52.43 |7
+GDcPwkp0|0.85|227.34|7
+vKGiGbvW|0.85|224.30|7
+Best quest found: 6n6XTvvh (Ratio: 363.72) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: 6n6XTvvh
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 1293,
+  score: 4843,
+  highScore: 0,
+  turn: 54,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+hF31anma|0.85|249.33|3
+6jcwgkU9|0.85|340.00|4
+7nxYlEns|0.67|117.99|4
+fajpQDwR|0.75|91.97 |5
+yUdYZbw6|1   |305.71|5
+ubFSZqoO|0.44|55.37 |6
+GDcPwkp0|0.85|241.78|6
+vKGiGbvW|0.85|238.54|6
+mWI8gAGe|0.67|95.66 |7
+TZxO0xdP|0.96|342.52|7
+Best quest found: TZxO0xdP (Ratio: 342.52) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: TZxO0xdP
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 1582,
+  score: 5132,
+  highScore: 0,
+  turn: 55,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+hF31anma|0.85|270.55|2
+6jcwgkU9|0.85|366.67|3
+7nxYlEns|0.67|126.64|3
+fajpQDwR|0.75|98.42 |4
+yUdYZbw6|1   |329.23|4
+ubFSZqoO|0.44|58.67 |5
+GDcPwkp0|0.85|258.17|5
+vKGiGbvW|0.85|254.71|5
+mWI8gAGe|0.67|101.41|6
+JSPfuJuZ|0.96|278.52|7
+Best quest found: 6jcwgkU9 (Ratio: 366.67) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 1282, lives: 6, level: 26, turn: 56 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+hF31anma|0.85|295.72|1
+6jcwgkU9|0.85|397.87|2
+7nxYlEns|0.67|136.65|2
+fajpQDwR|0.75|105.85|3
+yUdYZbw6|1   |356.67|3
+ubFSZqoO|0.44|62.38 |4
+GDcPwkp0|0.96|325.82|4
+vKGiGbvW|0.96|321.45|4
+mWI8gAGe|0.67|107.88|5
+JSPfuJuZ|0.96|296.84|6
+Best quest found: 6jcwgkU9 (Ratio: 397.87) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 982, lives: 6, level: 28, turn: 57 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+6jcwgkU9|0.85|434.88|1
+7nxYlEns|0.75|172.00|1
+fajpQDwR|0.85|270.55|2
+yUdYZbw6|1   |389.09|2
+ubFSZqoO|0.47|71.86 |3
+GDcPwkp0|0.96|352.52|3
+vKGiGbvW|0.96|347.80|3
+mWI8gAGe|0.67|115.25|4
+JSPfuJuZ|0.96|317.75|5
+XEN8y3PT|0.96|324.74|7
+Best quest found: 6jcwgkU9 (Ratio: 434.88) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 682, lives: 6, level: 30, turn: 58 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+fajpQDwR|0.85|295.72|1
+yUdYZbw6|1   |428.00|1
+ubFSZqoO|0.47|77.13 |2
+GDcPwkp0|0.96|384.00|2
+vKGiGbvW|0.96|378.86|2
+mWI8gAGe|0.67|123.69|3
+JSPfuJuZ|1   |361.54|4
+XEN8y3PT|0.96|346.11|6
+amsdZhR2|0.75|90.87 |7
+sjOydgud|0.96|139.85|7
+Best quest found: yUdYZbw6 (Ratio: 428.00) - (diff: 1)
+--------------------------------------------------
+Attempting to solve quest: yUdYZbw6
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 896,
+  score: 5346,
+  highScore: 0,
+  turn: 59,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+ubFSZqoO|0.47|83.23 |1
+GDcPwkp0|0.96|421.65|1
+vKGiGbvW|0.96|416.00|1
+mWI8gAGe|0.67|133.47|2
+JSPfuJuZ|1   |391.67|3
+XEN8y3PT|0.96|370.48|5
+amsdZhR2|0.75|96.46 |6
+sjOydgud|0.96|149.05|6
+OfZ8HpIG|0.44|58.98 |7
+NS0Z221o|0.67|86.55 |7
+Best quest found: GDcPwkp0 (Ratio: 421.65) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: GDcPwkp0
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 1120,
+  score: 5570,
+  highScore: 0,
+  turn: 60,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+mWI8gAGe|0.67|144.93|1
+JSPfuJuZ|1   |427.27|2
+XEN8y3PT|0.96|398.55|4
+amsdZhR2|0.75|102.79|5
+sjOydgud|0.96|159.55|5
+OfZ8HpIG|0.44|62.29 |6
+NS0Z221o|0.67|91.75 |6
+AcCJTRB9|0.67|72.88 |7
+YuL5j5zc|0.28|28.57 |7
+NDS9Niwp|0.75|106.09|7
+Best quest found: JSPfuJuZ (Ratio: 427.27) - (diff: 1)
+--------------------------------------------------
+Attempting to solve quest: JSPfuJuZ
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 1355,
+  score: 5805,
+  highScore: 0,
+  turn: 61,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+XEN8y3PT|0.96|431.21|3
+amsdZhR2|0.75|110.00|4
+sjOydgud|0.96|171.64|4
+OfZ8HpIG|0.44|66.00 |5
+NS0Z221o|0.67|97.61 |5
+AcCJTRB9|0.67|77.26 |6
+YuL5j5zc|0.28|30.11 |6
+NDS9Niwp|0.75|112.62|6
+gTWUulCV|0.67|101.73|7
+5QuOmzTp|0.28|26.86 |7
+Best quest found: XEN8y3PT (Ratio: 431.21) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: XEN8y3PT
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 1629,
+  score: 6079,
+  highScore: 0,
+  turn: 62,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+amsdZhR2|0.75|118.30|3
+sjOydgud|0.96|185.70|3
+OfZ8HpIG|0.44|70.18 |4
+NS0Z221o|0.67|104.27|4
+AcCJTRB9|0.67|82.20 |5
+YuL5j5zc|0.28|31.82 |5
+NDS9Niwp|0.75|120.00|5
+gTWUulCV|0.67|107.84|6
+5QuOmzTp|0.28|28.30 |6
+A8Tp4FyZ|0.28|34.29 |7
+Best quest found: sjOydgud (Ratio: 185.70) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: sjOydgud
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 1747,
+  score: 6197,
+  highScore: 0,
+  turn: 63,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+amsdZhR2|0.75|127.96|2
+OfZ8HpIG|0.44|74.92 |3
+NS0Z221o|0.67|111.91|3
+AcCJTRB9|0.67|87.81 |4
+YuL5j5zc|0.28|33.73 |4
+NDS9Niwp|0.75|128.42|4
+gTWUulCV|0.67|114.73|5
+5QuOmzTp|0.28|29.91 |5
+A8Tp4FyZ|0.28|36.13 |6
+tSf2WeoE|0.67|94.14 |7
+Best quest found: amsdZhR2 (Ratio: 127.96) - (diff: 0.75)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 1447, lives: 6, level: 32, turn: 64 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+amsdZhR2|0.85|330.51|1
+OfZ8HpIG|0.44|80.35 |2
+NS0Z221o|0.67|120.76|2
+AcCJTRB9|0.67|94.24 |3
+YuL5j5zc|0.28|35.90 |3
+NDS9Niwp|0.75|138.11|3
+gTWUulCV|0.67|122.57|4
+5QuOmzTp|0.44|52.35 |4
+A8Tp4FyZ|0.28|38.18 |5
+tSf2WeoE|0.67|99.80 |6
+Best quest found: amsdZhR2 (Ratio: 330.51) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 1147, lives: 6, level: 34, turn: 65 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+OfZ8HpIG|0.47|93.63 |1
+NS0Z221o|0.75|152.00|1
+AcCJTRB9|0.75|117.55|2
+YuL5j5zc|0.44|63.77 |2
+NDS9Niwp|0.75|149.39|2
+gTWUulCV|0.75|151.70|3
+5QuOmzTp|0.44|55.89 |3
+A8Tp4FyZ|0.28|40.48 |4
+tSf2WeoE|0.75|121.97|5
+MDlZnryt|0.96|244.15|7
+Best quest found: MDlZnryt (Ratio: 244.15) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: MDlZnryt
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 1353,
+  score: 6403,
+  highScore: 0,
+  turn: 66,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+AcCJTRB9|0.75|128.00|1
+YuL5j5zc|0.44|68.75 |1
+NDS9Niwp|0.75|162.67|1
+gTWUulCV|0.75|164.08|2
+5QuOmzTp|0.44|59.94 |2
+A8Tp4FyZ|0.28|43.08 |3
+tSf2WeoE|0.75|130.53|4
+29KLj3wU|0.28|33.29 |7
+ZBtDGGDW|0.75|126.09|7
+dehXenFJ|0.75|116.52|7
+Best quest found: NDS9Niwp (Ratio: 162.67) - (diff: 0.75)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 1053, lives: 6, level: 36, turn: 67 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+gTWUulCV|0.75|178.67|1
+5QuOmzTp|0.44|64.63 |1
+A8Tp4FyZ|0.44|76.52 |2
+tSf2WeoE|0.75|140.38|3
+29KLj3wU|0.44|57.60 |6
+ZBtDGGDW|0.75|133.85|6
+dehXenFJ|0.75|123.69|6
+O66UL0Bi|0.85|281.13|7
+JkbU6BTK|0.85|308.54|7
+2E7MGZ9e|0.85|361.31|7
+Best quest found: 2E7MGZ9e (Ratio: 361.31) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 753, lives: 6, level: 38, turn: 68 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+A8Tp4FyZ|0.44|82.50 |1
+tSf2WeoE|0.75|151.84|2
+29KLj3wU|0.44|61.02 |5
+ZBtDGGDW|0.75|142.62|5
+dehXenFJ|0.85|308.88|5
+O66UL0Bi|0.85|298.98|6
+JkbU6BTK|0.85|328.13|6
+2E7MGZ9e|0.85|384.25|6
+a4eJYRFT|0.75|112.17|7
+RBHQJEFj|0.96|354.37|7
+Best quest found: 2E7MGZ9e (Ratio: 384.25) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 453, lives: 6, level: 40, turn: 69 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+tSf2WeoE|0.75|165.33|1
+29KLj3wU|0.44|64.89 |4
+ZBtDGGDW|0.85|358.55|4
+dehXenFJ|0.85|331.35|4
+O66UL0Bi|0.85|319.25|5
+JkbU6BTK|0.85|350.37|5
+2E7MGZ9e|0.85|410.31|5
+a4eJYRFT|0.75|119.08|6
+RBHQJEFj|0.96|377.68|6
+KkTMQpfP|0.47|55.69 |7
+Best quest found: 2E7MGZ9e (Ratio: 410.31) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 153, lives: 6, level: 42, turn: 70 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+29KLj3wU|0.47|74.75 |3
+ZBtDGGDW|0.85|386.67|3
+dehXenFJ|0.85|357.33|3
+O66UL0Bi|0.96|402.91|4
+JkbU6BTK|0.85|375.85|4
+2E7MGZ9e|0.85|440.15|4
+a4eJYRFT|0.75|126.89|5
+RBHQJEFj|0.96|404.28|5
+KkTMQpfP|0.47|58.85 |6
+qWZSmzt8|0.75|117.39|7
+Best quest found: 2E7MGZ9e (Ratio: 440.15) - (diff: 0.85)
+--------------------------------------------------
+Attempting to solve quest: 2E7MGZ9e
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 509,
+  score: 6759,
+  highScore: 0,
+  turn: 71,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+29KLj3wU|0.47|80.23 |2
+ZBtDGGDW|0.85|419.57|2
+dehXenFJ|0.85|387.74|2
+O66UL0Bi|0.96|435.93|3
+JkbU6BTK|0.85|405.33|3
+a4eJYRFT|0.75|135.79|4
+RBHQJEFj|0.96|434.91|4
+KkTMQpfP|0.47|62.38 |5
+qWZSmzt8|0.75|124.62|6
+LzInrg04|0.75|153.91|7
+Best quest found: O66UL0Bi (Ratio: 435.93) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: O66UL0Bi
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 786,
+  score: 7036,
+  highScore: 0,
+  turn: 72,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+29KLj3wU|0.47|86.57 |1
+ZBtDGGDW|0.85|458.60|1
+dehXenFJ|0.85|423.81|1
+JkbU6BTK|0.85|439.83|2
+a4eJYRFT|0.75|146.04|3
+RBHQJEFj|0.96|470.56|3
+KkTMQpfP|0.47|66.37 |4
+qWZSmzt8|0.75|132.79|5
+LzInrg04|0.75|163.38|6
+RDnm73gc|0.85|364.36|7
+Best quest found: RBHQJEFj (Ratio: 470.56) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: RBHQJEFj
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 1085,
+  score: 7335,
+  highScore: 0,
+  turn: 73,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+JkbU6BTK|0.85|480.74|1
+a4eJYRFT|0.75|157.96|2
+KkTMQpfP|0.47|70.90 |3
+qWZSmzt8|0.75|142.11|4
+LzInrg04|0.75|174.10|5
+RDnm73gc|0.85|387.49|6
+bzn6xMnT|0.67|141.97|7
+0aiWNGht|0.44|79.11 |7
+VhVIC9WG|0.96|406.52|7
+XPy6sMWV|0.67|124.51|7
+Best quest found: JkbU6BTK (Ratio: 480.74) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 785, lives: 6, level: 44, turn: 74 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+a4eJYRFT|0.85|408.00|1
+KkTMQpfP|0.67|117.05|2
+qWZSmzt8|0.75|152.83|3
+LzInrg04|0.75|186.32|4
+RDnm73gc|0.85|413.76|5
+bzn6xMnT|0.75|172.62|6
+0aiWNGht|0.44|83.55 |6
+VhVIC9WG|0.96|433.26|6
+XPy6sMWV|0.67|131.99|6
+rmBq0Byk|0.67|102.49|7
+Best quest found: VhVIC9WG (Ratio: 433.26) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: VhVIC9WG
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 1128,
+  score: 7678,
+  highScore: 0,
+  turn: 75,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+KkTMQpfP|0.67|127.10|1
+qWZSmzt8|0.75|165.31|2
+LzInrg04|0.75|200.38|3
+RDnm73gc|0.85|443.85|4
+bzn6xMnT|0.75|183.93|5
+0aiWNGht|0.44|88.52 |5
+XPy6sMWV|0.67|140.42|5
+rmBq0Byk|0.67|108.65|6
+NFpGGzdI|0.67|102.49|7
+MgdUBPHd|0.75|185.65|7
+Best quest found: RDnm73gc (Ratio: 443.85) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 828, lives: 6, level: 46, turn: 76 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+qWZSmzt8|0.85|426.98|1
+LzInrg04|0.85|512.17|2
+RDnm73gc|0.85|478.67|3
+bzn6xMnT|0.75|196.84|4
+0aiWNGht|0.47|101.51|4
+XPy6sMWV|0.75|172.63|4
+rmBq0Byk|0.75|132.79|5
+NFpGGzdI|0.67|108.65|6
+MgdUBPHd|0.85|460.89|6
+RVEI9KQ5|0.44|64.36 |7
+Best quest found: LzInrg04 (Ratio: 512.17) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 528, lives: 6, level: 48, turn: 77 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+LzInrg04|0.85|559.81|1
+RDnm73gc|0.96|615.43|2
+bzn6xMnT|0.75|211.70|3
+0aiWNGht|0.47|108.44|3
+XPy6sMWV|0.75|185.66|3
+rmBq0Byk|0.75|142.11|4
+NFpGGzdI|0.75|132.79|5
+MgdUBPHd|0.85|492.14|5
+RVEI9KQ5|0.44|67.98 |6
+lOyESHEa|0.67|116.92|7
+Best quest found: RDnm73gc (Ratio: 615.43) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: RDnm73gc
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 887,
+  score: 8037,
+  highScore: 0,
+  turn: 78,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+bzn6xMnT|0.75|228.98|2
+0aiWNGht|0.47|116.38|2
+XPy6sMWV|0.75|200.82|2
+rmBq0Byk|0.75|152.83|3
+NFpGGzdI|0.75|142.11|4
+MgdUBPHd|0.85|527.93|4
+RVEI9KQ5|0.44|72.02 |5
+lOyESHEa|0.67|123.94|6
+EdPmvnCW|0.75|116.09|7
+u2F6sHX4|0.67|123.37|7
+Best quest found: MgdUBPHd (Ratio: 527.93) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 587, lives: 6, level: 50, turn: 79 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+bzn6xMnT|0.85|591.44|1
+0aiWNGht|0.47|125.58|1
+XPy6sMWV|0.75|218.67|1
+rmBq0Byk|0.75|165.31|2
+NFpGGzdI|0.75|152.83|3
+MgdUBPHd|0.85|569.33|3
+RVEI9KQ5|0.47|82.59 |4
+lOyESHEa|0.67|131.86|5
+EdPmvnCW|0.75|123.23|6
+u2F6sHX4|0.75|150.00|6
+Best quest found: bzn6xMnT (Ratio: 591.44) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 287, lives: 6, level: 52, turn: 80 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+rmBq0Byk|0.85|426.98|1
+NFpGGzdI|0.85|390.64|2
+MgdUBPHd|0.85|617.79|2
+RVEI9KQ5|0.47|88.23 |3
+lOyESHEa|0.75|162.11|4
+EdPmvnCW|0.85|307.73|5
+u2F6sHX4|0.75|159.84|5
+dpvnYmOF|0.85|444.54|7
+UZYQU4tS|0.75|156.52|7
+7PHF2WD3|0.96|526.22|7
+Best quest found: MgdUBPHd (Ratio: 617.79) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying tricks
+ { shoppingSuccess: true, gold: 187, lives: 6, level: 53, turn: 81 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+NFpGGzdI|0.85|426.98|1
+MgdUBPHd|0.96|803.76|1
+RVEI9KQ5|0.47|94.69 |2
+lOyESHEa|0.75|174.34|3
+EdPmvnCW|0.85|330.11|4
+u2F6sHX4|0.75|171.05|4
+dpvnYmOF|0.85|472.76|6
+UZYQU4tS|0.75|166.15|6
+7PHF2WD3|0.96|560.84|6
+qzwnR7fw|0.44|87.06 |7
+Best quest found: MgdUBPHd (Ratio: 803.76) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: MgdUBPHd
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 614,
+  score: 8464,
+  highScore: 0,
+  turn: 82,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+RVEI9KQ5|0.47|102.17|1
+lOyESHEa|0.75|188.57|2
+EdPmvnCW|0.85|356.00|3
+u2F6sHX4|0.75|183.96|3
+dpvnYmOF|0.85|504.81|5
+UZYQU4tS|0.75|177.05|5
+7PHF2WD3|0.96|600.34|5
+qzwnR7fw|0.44|91.96 |6
+0OilRunD|0.85|396.84|7
+JPLyseFL|0.44|81.21 |7
+Best quest found: 7PHF2WD3 (Ratio: 600.34) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: 7PHF2WD3
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 1058,
+  score: 8908,
+  highScore: 0,
+  turn: 83,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+lOyESHEa|0.75|205.33|1
+EdPmvnCW|0.85|386.30|2
+u2F6sHX4|0.75|198.98|2
+dpvnYmOF|0.85|541.53|4
+UZYQU4tS|0.75|189.47|4
+qzwnR7fw|0.44|97.43 |5
+0OilRunD|0.85|422.03|6
+JPLyseFL|0.44|85.78 |6
+cM42ak7Q|0.18|45.67 |7
+vyktSOBH|0.75|126.09|7
+Best quest found: dpvnYmOF (Ratio: 541.53) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 758, lives: 6, level: 55, turn: 84 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+EdPmvnCW|0.85|422.23|1
+u2F6sHX4|0.75|216.67|1
+dpvnYmOF|0.85|584.00|3
+UZYQU4tS|0.75|203.77|3
+qzwnR7fw|0.44|103.59|4
+0OilRunD|0.85|450.64|5
+JPLyseFL|0.44|90.88 |5
+cM42ak7Q|0.18|48.06 |6
+vyktSOBH|0.75|133.85|6
+StomodCt|0.18|47.37 |7
+Best quest found: dpvnYmOF (Ratio: 584.00) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 458, lives: 6, level: 57, turn: 85 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+dpvnYmOF|0.85|633.70|2
+UZYQU4tS|0.85|520.85|2
+qzwnR7fw|0.44|110.59|3
+0OilRunD|0.85|483.42|4
+JPLyseFL|0.47|104.21|4
+cM42ak7Q|0.18|50.72 |5
+vyktSOBH|0.85|334.24|5
+StomodCt|0.28|79.63 |6
+6QWTY3N9|0.75|161.30|7
+aiv8QLTd|0.96|455.11|7
+Best quest found: dpvnYmOF (Ratio: 633.70) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 158, lives: 6, level: 59, turn: 86 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+dpvnYmOF|0.96|824.47|1
+UZYQU4tS|0.85|569.30|1
+qzwnR7fw|0.47|128.09|2
+0OilRunD|0.85|521.33|3
+JPLyseFL|0.47|111.32|3
+cM42ak7Q|0.28|86.02 |4
+vyktSOBH|0.85|358.55|4
+StomodCt|0.28|84.16 |5
+6QWTY3N9|0.75|171.23|6
+aiv8QLTd|0.96|485.05|6
+Best quest found: dpvnYmOF (Ratio: 824.47) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: dpvnYmOF
+Response from API: {
+  success: true,
+  lives: 6,
+  gold: 596,
+  score: 9346,
+  highScore: 0,
+  turn: 87,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+qzwnR7fw|0.47|138.21|1
+0OilRunD|0.85|565.70|2
+JPLyseFL|0.47|119.48|2
+cM42ak7Q|0.28|91.54 |3
+vyktSOBH|0.85|386.67|3
+StomodCt|0.28|89.23 |4
+6QWTY3N9|0.75|182.46|5
+aiv8QLTd|0.96|519.21|5
+2QoABsMP|0.67|165.13|7
+WfvXLvyW|0.96|498.96|7
+Best quest found: 0OilRunD (Ratio: 565.70) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 296, lives: 6, level: 61, turn: 88 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+0OilRunD|0.96|736.00|1
+JPLyseFL|0.47|128.92|1
+cM42ak7Q|0.28|97.81 |2
+vyktSOBH|0.96|497.14|2
+StomodCt|0.28|94.95 |3
+6QWTY3N9|0.75|195.26|4
+aiv8QLTd|0.96|558.55|4
+2QoABsMP|0.67|175.05|6
+WfvXLvyW|0.96|531.79|6
+J2IDQS4e|0.11|17.43 |7
+Best quest found: 0OilRunD (Ratio: 736.00) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: 0OilRunD
+Response from API: {
+  success: false,
+  lives: 5,
+  gold: 296,
+  score: 9346,
+  highScore: 0,
+  turn: 89,
+  message: 'You failed on the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+cM42ak7Q|0.28|105.00|1
+vyktSOBH|0.96|545.88|1
+StomodCt|0.28|101.45|2
+6QWTY3N9|0.75|210.00|3
+aiv8QLTd|0.96|604.33|3
+2QoABsMP|0.67|186.23|5
+WfvXLvyW|0.96|569.24|5
+J2IDQS4e|0.11|18.32 |6
+ZhVlUFNJ|0.11|23.29 |7
+ZcO2x9eY|0.75|154.35|7
+Best quest found: aiv8QLTd (Ratio: 604.33) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: aiv8QLTd
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 680,
+  score: 9730,
+  highScore: 0,
+  turn: 90,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+StomodCt|0.28|108.91|1
+6QWTY3N9|0.75|227.14|2
+2QoABsMP|0.67|198.94|4
+WfvXLvyW|0.96|612.36|4
+J2IDQS4e|0.11|19.32 |5
+ZhVlUFNJ|0.11|24.49 |6
+ZcO2x9eY|0.75|163.85|6
+nm6aGacr|0.47|125.25|7
+0j5XG5gI|0.11|21.03 |7
+Unfvz7JK|0.11|26.73 |7
+Best quest found: WfvXLvyW (Ratio: 612.36) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: WfvXLvyW
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 1101,
+  score: 10151,
+  highScore: 0,
+  turn: 91,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+6QWTY3N9|0.75|247.33|1
+2QoABsMP|0.67|213.52|3
+J2IDQS4e|0.11|20.42 |4
+ZhVlUFNJ|0.11|25.82 |5
+ZcO2x9eY|0.75|174.59|5
+nm6aGacr|0.47|132.35|6
+0j5XG5gI|0.11|22.11 |6
+Unfvz7JK|0.11|28.11 |6
+7Pryikud|0.28|61.86 |7
+Gnbp1bge|0.11|22.54 |7
+Best quest found: 6QWTY3N9 (Ratio: 247.33) - (diff: 0.75)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 801, lives: 5, level: 63, turn: 92 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+2QoABsMP|0.67|230.40|2
+J2IDQS4e|0.11|21.67 |3
+ZhVlUFNJ|0.11|27.30 |4
+ZcO2x9eY|0.75|186.84|4
+nm6aGacr|0.47|140.29|5
+0j5XG5gI|0.11|23.31 |5
+Unfvz7JK|0.11|29.63 |5
+7Pryikud|0.28|65.18 |6
+Gnbp1bge|0.11|23.70 |6
+KGMo5gxL|0.28|50.71 |7
+Best quest found: 2QoABsMP (Ratio: 230.40) - (diff: 0.67)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 501, lives: 5, level: 65, turn: 93 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+2QoABsMP|0.75|290.00|1
+J2IDQS4e|0.11|23.07 |2
+ZhVlUFNJ|0.11|28.95 |3
+ZcO2x9eY|0.85|473.33|3
+nm6aGacr|0.47|149.26|4
+0j5XG5gI|0.11|24.65 |4
+Unfvz7JK|0.11|31.33 |4
+7Pryikud|0.44|113.40|5
+Gnbp1bge|0.11|24.98 |5
+KGMo5gxL|0.28|53.44 |6
+Best quest found: ZcO2x9eY (Ratio: 473.33) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 201, lives: 5, level: 67, turn: 94 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+J2IDQS4e|0.18|41.36 |1
+ZhVlUFNJ|0.11|30.83 |2
+ZcO2x9eY|0.85|513.62|2
+nm6aGacr|0.67|243.95|3
+0j5XG5gI|0.11|26.15 |3
+Unfvz7JK|0.11|33.23 |3
+7Pryikud|0.44|120.58|4
+Gnbp1bge|0.18|44.11 |4
+KGMo5gxL|0.44|92.98 |5
+crNyugvq|0.44|100.17|7
+Best quest found: ZcO2x9eY (Ratio: 513.62) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying gas
+ { shoppingSuccess: true, gold: 101, lives: 5, level: 68, turn: 95 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+ZhVlUFNJ|0.11|32.96 |1
+ZcO2x9eY|0.85|561.40|1
+nm6aGacr|0.67|263.23|2
+0j5XG5gI|0.11|27.84 |2
+Unfvz7JK|0.18|59.25 |2
+7Pryikud|0.47|138.91|3
+Gnbp1bge|0.18|46.84 |3
+KGMo5gxL|0.44|98.86 |4
+crNyugvq|0.44|105.80|6
+WHDJq7Iw|0.85|562.27|7
+Best quest found: ZcO2x9eY (Ratio: 561.40) - (diff: 0.85)
+--------------------------------------------------
+Attempting to solve quest: ZcO2x9eY
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 456,
+  score: 10506,
+  highScore: 0,
+  turn: 96,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+nm6aGacr|0.67|285.83|1
+0j5XG5gI|0.11|29.76 |1
+Unfvz7JK|0.18|63.45 |1
+7Pryikud|0.47|149.09|2
+Gnbp1bge|0.18|49.95 |2
+KGMo5gxL|0.44|105.54|3
+crNyugvq|0.44|112.10|5
+WHDJq7Iw|0.85|597.97|6
+gcozIBkl|0.28|47.86 |7
+G9faCDzt|0.11|20.12 |7
+Best quest found: WHDJq7Iw (Ratio: 597.97) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 156, lives: 5, level: 70, turn: 97 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+7Pryikud|0.47|160.88|1
+Gnbp1bge|0.18|53.49 |1
+KGMo5gxL|0.44|113.19|2
+crNyugvq|0.44|119.19|4
+WHDJq7Iw|0.96|749.07|5
+gcozIBkl|0.44|82.81 |6
+G9faCDzt|0.11|21.15 |6
+2x6DyOgu|0.96|508.44|7
+BOPFRsjE|0.11|32.70 |7
+NpEQbMPL|0.75|139.13|7
+Best quest found: WHDJq7Iw (Ratio: 749.07) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: WHDJq7Iw
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 710,
+  score: 11060,
+  highScore: 0,
+  turn: 98,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+KGMo5gxL|0.44|122.03|1
+crNyugvq|0.44|127.24|3
+gcozIBkl|0.44|87.74 |5
+G9faCDzt|0.11|22.30 |5
+2x6DyOgu|0.96|541.89|6
+BOPFRsjE|0.11|34.39 |6
+NpEQbMPL|0.75|147.69|6
+RTHnYEry|0.47|139.11|7
+PtiyeAdc|0.47|141.13|7
+NQbESEHI|0.67|145.77|7
+Best quest found: 2x6DyOgu (Ratio: 541.89) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: 2x6DyOgu
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 1139,
+  score: 11489,
+  highScore: 0,
+  turn: 99,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+crNyugvq|0.44|136.46|2
+gcozIBkl|0.44|93.29 |4
+G9faCDzt|0.11|23.58 |4
+BOPFRsjE|0.11|36.25 |5
+NpEQbMPL|0.75|157.38|5
+RTHnYEry|0.47|146.99|6
+PtiyeAdc|0.47|149.12|6
+NQbESEHI|0.67|154.52|6
+pdO8rviP|0.11|29.69 |7
+Xs7y9R1q|0.75|222.61|7
+Best quest found: Xs7y9R1q (Ratio: 222.61) - (diff: 0.75)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 839, lives: 5, level: 72, turn: 100 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+crNyugvq|0.47|159.02|1
+gcozIBkl|0.44|99.59 |3
+G9faCDzt|0.18|41.81 |3
+BOPFRsjE|0.18|64.00 |4
+NpEQbMPL|0.75|168.42|4
+RTHnYEry|0.67|236.32|5
+PtiyeAdc|0.67|239.74|5
+NQbESEHI|0.75|188.85|5
+pdO8rviP|0.11|31.22 |6
+Xs7y9R1q|0.85|552.63|6
+Best quest found: Xs7y9R1q (Ratio: 552.63) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 539, lives: 5, level: 74, turn: 101 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+gcozIBkl|0.44|106.81|2
+G9faCDzt|0.18|44.58 |2
+BOPFRsjE|0.18|67.98 |3
+NpEQbMPL|0.85|426.67|3
+RTHnYEry|0.67|252.45|4
+PtiyeAdc|0.67|256.11|4
+NQbESEHI|0.75|202.11|4
+pdO8rviP|0.11|32.91 |5
+Xs7y9R1q|0.85|590.10|5
+UBhhmWMF|0.11|27.33 |7
+Best quest found: Xs7y9R1q (Ratio: 590.10) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 239, lives: 5, level: 76, turn: 102 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+gcozIBkl|0.47|124.47|1
+G9faCDzt|0.18|47.74 |1
+BOPFRsjE|0.18|72.48 |2
+NpEQbMPL|0.85|462.98|2
+RTHnYEry|0.67|270.95|3
+PtiyeAdc|0.75|316.98|3
+NQbESEHI|0.75|217.36|3
+pdO8rviP|0.18|58.11 |4
+Xs7y9R1q|0.96|744.73|4
+UBhhmWMF|0.11|28.73 |6
+Best quest found: Xs7y9R1q (Ratio: 744.73) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: Xs7y9R1q
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 751,
+  score: 12001,
+  highScore: 0,
+  turn: 103,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+BOPFRsjE|0.18|77.62 |1
+NpEQbMPL|0.85|506.05|1
+RTHnYEry|0.67|292.36|2
+PtiyeAdc|0.75|342.86|2
+NQbESEHI|0.75|235.10|2
+pdO8rviP|0.18|61.71 |3
+UBhhmWMF|0.11|30.29 |5
+4MNVO2Sj|0.44|134.81|7
+Ff9qjlNW|0.96|815.41|7
+rVTv5QMc|0.28|88.43 |7
+Best quest found: Ff9qjlNW (Ratio: 815.41) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: Ff9qjlNW
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 1439,
+  score: 12689,
+  highScore: 0,
+  turn: 104,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+RTHnYEry|0.67|317.46|1
+PtiyeAdc|0.75|373.33|1
+NQbESEHI|0.75|256.00|1
+pdO8rviP|0.18|65.80 |2
+UBhhmWMF|0.11|32.02 |4
+4MNVO2Sj|0.44|142.38|6
+rVTv5QMc|0.28|93.18 |6
+dlWc98yf|0.67|173.10|7
+82rrfWcz|0.18|43.16 |7
+dTZMvqUx|0.44|106.72|7
+Best quest found: PtiyeAdc (Ratio: 373.33) - (diff: 0.75)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 1139, lives: 5, level: 78, turn: 105 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+pdO8rviP|0.18|70.47 |1
+UBhhmWMF|0.18|56.80 |3
+4MNVO2Sj|0.44|150.86|5
+rVTv5QMc|0.28|98.48 |5
+dlWc98yf|0.67|183.50|6
+82rrfWcz|0.28|72.56 |6
+dTZMvqUx|0.47|121.43|6
+xpq1FTQa|0.18|48.54 |7
+kFCkX9Ji|0.67|225.10|7
+1q13H7RV|0.96|642.37|7
+Best quest found: 1q13H7RV (Ratio: 642.37) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: 1q13H7RV
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 1681,
+  score: 13231,
+  highScore: 0,
+  turn: 106,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+UBhhmWMF|0.18|60.56 |2
+4MNVO2Sj|0.44|160.41|4
+rVTv5QMc|0.28|104.41|4
+dlWc98yf|0.67|195.22|5
+82rrfWcz|0.28|76.68 |5
+dTZMvqUx|0.47|128.72|5
+xpq1FTQa|0.18|51.08 |6
+kFCkX9Ji|0.67|238.62|6
+ZuLA6uAp|0.44|115.38|7
+rzWPbA5x|0.75|252.61|7
+Best quest found: rzWPbA5x (Ratio: 252.61) - (diff: 0.75)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 1381, lives: 5, level: 80, turn: 107 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+UBhhmWMF|0.18|64.85 |1
+4MNVO2Sj|0.47|184.79|3
+rVTv5QMc|0.44|184.03|3
+dlWc98yf|0.75|240.00|4
+82rrfWcz|0.28|81.30 |4
+dTZMvqUx|0.47|136.95|4
+xpq1FTQa|0.18|53.90 |5
+kFCkX9Ji|0.75|291.64|5
+ZuLA6uAp|0.44|121.87|6
+rzWPbA5x|0.85|627.11|6
+Best quest found: rzWPbA5x (Ratio: 627.11) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 1081, lives: 5, level: 82, turn: 108 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+4MNVO2Sj|0.47|198.33|2
+rVTv5QMc|0.44|197.36|2
+dlWc98yf|0.75|258.11|3
+82rrfWcz|0.44|143.30|3
+dTZMvqUx|0.67|223.82|3
+xpq1FTQa|0.28|91.42 |4
+kFCkX9Ji|0.75|312.11|4
+ZuLA6uAp|0.47|139.17|5
+rzWPbA5x|0.85|669.63|5
+Ttw3ekLJ|0.28|75.86 |7
+Best quest found: rzWPbA5x (Ratio: 669.63) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 781, lives: 5, level: 84, turn: 109 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+4MNVO2Sj|0.47|214.01|1
+rVTv5QMc|0.44|212.78|1
+dlWc98yf|0.85|659.74|2
+82rrfWcz|0.44|153.68|2
+dTZMvqUx|0.67|241.52|2
+xpq1FTQa|0.28|97.28 |3
+kFCkX9Ji|0.75|335.66|3
+ZuLA6uAp|0.47|148.06|4
+rzWPbA5x|0.85|718.33|4
+Ttw3ekLJ|0.28|79.94 |6
+Best quest found: rzWPbA5x (Ratio: 718.33) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 481, lives: 5, level: 86, turn: 110 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+dlWc98yf|0.85|721.12|1
+82rrfWcz|0.44|165.69|1
+dTZMvqUx|0.67|262.25|1
+xpq1FTQa|0.44|172.81|2
+kFCkX9Ji|0.75|363.06|2
+ZuLA6uAp|0.67|241.99|3
+rzWPbA5x|0.85|774.67|3
+Ttw3ekLJ|0.28|84.48 |5
+C80mAsiH|0.75|277.83|7
+RBfvmLJs|1   |822.50|7
+Best quest found: RBfvmLJs (Ratio: 822.50) - (diff: 1)
+--------------------------------------------------
+Attempting to solve quest: RBfvmLJs
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 1139,
+  score: 13889,
+  highScore: 0,
+  turn: 111,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+xpq1FTQa|0.44|186.31|1
+kFCkX9Ji|0.75|395.33|1
+ZuLA6uAp|0.67|261.11|2
+rzWPbA5x|0.85|840.60|2
+Ttw3ekLJ|0.28|89.57 |4
+C80mAsiH|0.75|294.92|6
+wF84oEiW|0.85|662.75|7
+lk37u3qM|0.28|91.86 |7
+NfBkkXSL|0.44|154.94|7
+dBOnBbbo|0.85|760.18|7
+Best quest found: rzWPbA5x (Ratio: 840.60) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 839, lives: 5, level: 88, turn: 112 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+ZuLA6uAp|0.67|283.53|1
+rzWPbA5x|0.85|918.79|1
+Ttw3ekLJ|0.44|157.86|3
+C80mAsiH|0.75|314.26|5
+wF84oEiW|0.85|704.83|6
+lk37u3qM|0.44|158.94|6
+NfBkkXSL|0.47|176.28|6
+dBOnBbbo|0.96|946.11|6
+GtfeyyBE|0.67|196.63|7
+rLyXn1BM|0.44|159.62|7
+Best quest found: dBOnBbbo (Ratio: 946.11) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: dBOnBbbo
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 1588,
+  score: 14638,
+  highScore: 0,
+  turn: 113,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+Ttw3ekLJ|0.44|169.30|2
+C80mAsiH|0.75|336.32|4
+wF84oEiW|0.85|752.61|5
+lk37u3qM|0.44|168.40|5
+NfBkkXSL|0.47|186.87|5
+GtfeyyBE|0.67|208.44|6
+rLyXn1BM|0.44|168.58|6
+tzzwuclx|0.96|894.81|7
+SmmODfNP|0.67|208.40|7
+a7RZrE69|0.18|51.76 |7
+Best quest found: tzzwuclx (Ratio: 894.81) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: tzzwuclx
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 2343,
+  score: 15393,
+  highScore: 0,
+  turn: 114,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+Ttw3ekLJ|0.44|182.53|1
+C80mAsiH|0.75|361.70|3
+wF84oEiW|0.85|807.35|4
+lk37u3qM|0.44|179.06|4
+NfBkkXSL|0.47|198.81|4
+GtfeyyBE|0.67|221.76|5
+rLyXn1BM|0.44|178.62|5
+SmmODfNP|0.67|220.92|6
+a7RZrE69|0.18|54.47 |6
+O6KerJOI|0.85|675.94|7
+Best quest found: wF84oEiW (Ratio: 807.35) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 2043, lives: 5, level: 90, turn: 115 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+C80mAsiH|0.85|924.51|2
+wF84oEiW|0.96|1027.67|3
+lk37u3qM|0.44|191.16|3
+NfBkkXSL|0.47|212.38|3
+GtfeyyBE|0.67|236.90|4
+rLyXn1BM|0.44|189.92|4
+SmmODfNP|0.67|235.04|5
+a7RZrE69|0.18|57.48 |5
+O6KerJOI|0.85|718.86|6
+rnnImicS|0.44|162.89|7
+Best quest found: wF84oEiW (Ratio: 1027.67) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: wF84oEiW
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 2696,
+  score: 16046,
+  highScore: 0,
+  turn: 116,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+C80mAsiH|0.85|1010.51|1
+lk37u3qM|0.44|205.01|2
+NfBkkXSL|0.47|227.94|2
+GtfeyyBE|0.67|254.26|3
+rLyXn1BM|0.44|202.76|3
+SmmODfNP|0.67|251.08|4
+a7RZrE69|0.18|60.84 |4
+O6KerJOI|0.85|767.59|5
+rnnImicS|0.44|172.04|6
+AXn4d5jc|0.67|167.03|7
+Best quest found: C80mAsiH (Ratio: 1010.51) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 2396, lives: 5, level: 92, turn: 117 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+lk37u3qM|0.44|221.03|1
+NfBkkXSL|0.47|245.96|1
+GtfeyyBE|0.67|274.36|2
+rLyXn1BM|0.44|217.45|2
+SmmODfNP|0.75|310.75|3
+a7RZrE69|0.28|103.74|3
+O6KerJOI|0.85|823.42|4
+rnnImicS|0.47|196.47|5
+AXn4d5jc|0.75|203.08|6
+RrbWuqPY|0.67|201.19|7
+Best quest found: O6KerJOI (Ratio: 823.42) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 2096, lives: 5, level: 94, turn: 118 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+GtfeyyBE|0.75|345.33|1
+rLyXn1BM|0.47|253.39|1
+SmmODfNP|0.75|336.12|2
+a7RZrE69|0.28|110.85|2
+O6KerJOI|0.85|888.00|3
+rnnImicS|0.47|209.02|4
+AXn4d5jc|0.75|216.39|5
+RrbWuqPY|0.67|213.27|6
+YYx8DtTN|0.85|600.84|7
+aJo1RI78|0.75|261.74|7
+Best quest found: O6KerJOI (Ratio: 888.00) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 1796, lives: 5, level: 96, turn: 119 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+SmmODfNP|0.75|366.00|1
+a7RZrE69|0.44|198.69|1
+O6KerJOI|0.96|1141.71|2
+rnnImicS|0.47|223.29|3
+AXn4d5jc|0.75|231.58|4
+RrbWuqPY|0.67|226.90|5
+YYx8DtTN|0.96|747.79|6
+aJo1RI78|0.85|649.78|6
+AA84Cbps|0.96|714.67|7
+7anlkuIN|0.75|262.17|7
+Best quest found: O6KerJOI (Ratio: 1141.71) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: O6KerJOI
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 2462,
+  score: 16712,
+  highScore: 0,
+  turn: 120,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+rnnImicS|0.47|239.65|2
+AXn4d5jc|0.75|249.06|3
+RrbWuqPY|0.67|242.39|4
+YYx8DtTN|0.96|800.45|5
+aJo1RI78|0.85|693.83|5
+AA84Cbps|0.96|761.68|6
+7anlkuIN|0.75|278.31|6
+erz6Hyt8|0.67|185.25|7
+tKqc9Gds|0.18|43.70 |7
+W5EzcbDF|0.11|27.92 |7
+Best quest found: YYx8DtTN (Ratio: 800.45) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: YYx8DtTN
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 3054,
+  score: 17304,
+  highScore: 0,
+  turn: 121,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+rnnImicS|0.47|258.59|1
+AXn4d5jc|0.75|269.39|2
+RrbWuqPY|0.67|260.15|3
+aJo1RI78|0.85|744.29|4
+AA84Cbps|0.96|815.32|5
+7anlkuIN|0.75|296.56|5
+erz6Hyt8|0.67|196.37|6
+tKqc9Gds|0.18|45.99 |6
+W5EzcbDF|0.11|29.35 |6
+SBn940HF|0.11|35.93 |7
+Best quest found: AA84Cbps (Ratio: 815.32) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: AA84Cbps
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 3657,
+  score: 17907,
+  highScore: 0,
+  turn: 122,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+AXn4d5jc|0.75|293.33|1
+RrbWuqPY|0.67|280.71|2
+aJo1RI78|0.85|802.67|3
+7anlkuIN|0.75|317.37|4
+erz6Hyt8|0.67|208.92|5
+tKqc9Gds|0.18|48.53 |5
+W5EzcbDF|0.11|30.94 |5
+SBn940HF|0.11|37.78 |6
+6IXLX7DC|0.85|741.91|7
+CuWGDuFM|0.44|153.77|7
+Best quest found: aJo1RI78 (Ratio: 802.67) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 3357, lives: 5, level: 98, turn: 123 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+RrbWuqPY|0.75|353.33|1
+aJo1RI78|0.85|870.98|2
+7anlkuIN|0.75|341.32|3
+erz6Hyt8|0.67|223.18|4
+tKqc9Gds|0.28|82.31 |4
+W5EzcbDF|0.11|32.72 |4
+SBn940HF|0.11|39.83 |5
+6IXLX7DC|0.85|789.02|6
+CuWGDuFM|0.47|174.95|6
+E1yfORvd|0.44|143.94|7
+Best quest found: aJo1RI78 (Ratio: 870.98) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 3057, lives: 5, level: 100, turn: 124 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+aJo1RI78|0.85|952.00|1
+7anlkuIN|0.85|872.43|2
+erz6Hyt8|0.75|276.23|3
+tKqc9Gds|0.28|87.59 |3
+W5EzcbDF|0.11|34.71 |3
+SBn940HF|0.11|42.11 |4
+6IXLX7DC|0.85|842.51|5
+CuWGDuFM|0.47|185.46|5
+E1yfORvd|0.44|152.02|6
+VsScWNmi|0.75|389.57|7
+Best quest found: aJo1RI78 (Ratio: 952.00) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 2757, lives: 5, level: 102, turn: 125 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+7anlkuIN|0.85|953.58|1
+erz6Hyt8|0.75|298.78|2
+tKqc9Gds|0.28|93.59 |2
+W5EzcbDF|0.11|36.95 |2
+SBn940HF|0.18|74.68 |3
+6IXLX7DC|0.96|1063.27|4
+CuWGDuFM|0.47|197.31|4
+E1yfORvd|0.47|173.60|5
+VsScWNmi|0.75|413.54|6
+hWbAtjdL|0.11|31.95 |7
+Best quest found: 6IXLX7DC (Ratio: 1063.27) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: 6IXLX7DC
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 3488,
+  score: 18638,
+  highScore: 0,
+  turn: 126,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+erz6Hyt8|0.75|325.33|1
+tKqc9Gds|0.28|100.47|1
+W5EzcbDF|0.11|39.51 |1
+SBn940HF|0.18|79.63 |2
+CuWGDuFM|0.47|210.78|3
+E1yfORvd|0.47|184.70|4
+VsScWNmi|0.75|440.66|5
+hWbAtjdL|0.11|33.59 |6
+84k4RpPO|0.67|284.70|7
+WywjGDJZ|0.11|29.53 |7
+Best quest found: VsScWNmi (Ratio: 440.66) - (diff: 0.75)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 3188, lives: 5, level: 104, turn: 127 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+SBn940HF|0.18|85.28 |1
+CuWGDuFM|0.67|347.98|2
+E1yfORvd|0.47|197.30|3
+VsScWNmi|0.75|471.58|4
+hWbAtjdL|0.18|59.07 |5
+84k4RpPO|0.67|301.80|6
+WywjGDJZ|0.18|51.74 |6
+X7s06Pgb|0.75|248.26|7
+J9vtH6kZ|0.11|40.34 |7
+YQn28D2P|0.28|86.43 |7
+Best quest found: VsScWNmi (Ratio: 471.58) - (diff: 0.75)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 2888, lives: 5, level: 106, turn: 128 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+CuWGDuFM|0.67|377.85|1
+E1yfORvd|0.67|325.73|2
+VsScWNmi|0.75|507.17|3
+hWbAtjdL|0.18|62.53 |4
+84k4RpPO|0.75|368.85|5
+WywjGDJZ|0.18|54.60 |5
+X7s06Pgb|0.75|263.54|6
+J9vtH6kZ|0.11|42.42 |6
+YQn28D2P|0.44|149.55|6
+FgSTITX3|0.11|34.96 |7
+Best quest found: VsScWNmi (Ratio: 507.17) - (diff: 0.75)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 2588, lives: 5, level: 108, turn: 129 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+E1yfORvd|0.67|353.69|1
+VsScWNmi|0.85|1296.34|2
+hWbAtjdL|0.28|106.62|3
+84k4RpPO|0.75|394.74|4
+WywjGDJZ|0.18|57.79 |4
+X7s06Pgb|0.85|658.10|5
+J9vtH6kZ|0.11|44.72 |5
+YQn28D2P|0.44|158.45|5
+FgSTITX3|0.11|36.76 |6
+EgQDobjP|0.96|783.41|7
+Best quest found: VsScWNmi (Ratio: 1296.34) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 2288, lives: 5, level: 110, turn: 130 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+VsScWNmi|0.85|1416.93|1
+hWbAtjdL|0.28|113.92|2
+84k4RpPO|0.75|424.53|3
+WywjGDJZ|0.28|98.54 |3
+X7s06Pgb|0.85|705.96|4
+J9vtH6kZ|0.18|78.95 |4
+YQn28D2P|0.47|181.69|4
+FgSTITX3|0.11|38.75 |5
+EgQDobjP|0.96|834.95|6
+qH0R6yXs|0.28|116.29|7
+Best quest found: VsScWNmi (Ratio: 1416.93) - (diff: 0.85)
+--------------------------------------------------
+Attempting to solve quest: VsScWNmi
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 3184,
+  score: 19534,
+  highScore: 0,
+  turn: 131,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+hWbAtjdL|0.28|122.29|1
+84k4RpPO|0.75|459.18|2
+WywjGDJZ|0.28|105.29|2
+X7s06Pgb|0.85|761.33|3
+J9vtH6kZ|0.18|83.85 |3
+YQn28D2P|0.47|194.10|3
+FgSTITX3|0.11|40.97 |4
+EgQDobjP|0.96|893.75|5
+qH0R6yXs|0.28|122.54|6
+AndskKj3|0.75|323.48|7
+Best quest found: EgQDobjP (Ratio: 893.75) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: EgQDobjP
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 3845,
+  score: 20195,
+  highScore: 0,
+  turn: 132,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+84k4RpPO|0.75|500.00|1
+WywjGDJZ|0.28|113.03|1
+X7s06Pgb|0.85|826.13|2
+J9vtH6kZ|0.18|89.40 |2
+YQn28D2P|0.47|208.32|2
+FgSTITX3|0.11|43.47 |3
+qH0R6yXs|0.28|129.50|5
+AndskKj3|0.75|343.38|6
+nFPJRzUK|0.28|118.29|7
+EdfdNo9e|0.28|87.43 |7
+Best quest found: X7s06Pgb (Ratio: 826.13) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 3545, lives: 5, level: 112, turn: 133 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+X7s06Pgb|0.85|902.98|1
+J9vtH6kZ|0.18|95.74 |1
+YQn28D2P|0.47|224.78|1
+FgSTITX3|0.11|46.28 |2
+qH0R6yXs|0.28|137.30|4
+AndskKj3|0.75|365.90|5
+nFPJRzUK|0.28|124.65|6
+EdfdNo9e|0.44|151.28|6
+13soBsZY|0.47|169.35|7
+PWxiCzVf|0.47|190.52|7
+Best quest found: X7s06Pgb (Ratio: 902.98) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 3245, lives: 5, level: 114, turn: 134 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+FgSTITX3|0.11|49.48 |1
+qH0R6yXs|0.44|242.00|3
+AndskKj3|0.75|391.58|4
+nFPJRzUK|0.44|216.86|5
+EdfdNo9e|0.44|160.29|5
+13soBsZY|0.47|178.95|6
+PWxiCzVf|0.47|201.31|6
+s7zSDslS|0.47|135.33|7
+w0U3A59i|0.11|40.02 |7
+pnLvYFLP|0.75|350.00|7
+Best quest found: AndskKj3 (Ratio: 391.58) - (diff: 0.75)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 2945, lives: 5, level: 116, turn: 135 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+qH0R6yXs|0.44|259.54|2
+AndskKj3|0.85|992.00|3
+nFPJRzUK|0.44|230.58|4
+EdfdNo9e|0.47|183.80|4
+13soBsZY|0.67|287.69|5
+PWxiCzVf|0.67|323.65|5
+s7zSDslS|0.67|216.09|6
+w0U3A59i|0.11|42.08 |6
+pnLvYFLP|0.85|868.89|6
+1QOTeBkY|0.47|212.45|7
+Best quest found: AndskKj3 (Ratio: 992.00) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 2645, lives: 5, level: 118, turn: 136 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+qH0R6yXs|0.44|279.81|1
+AndskKj3|0.85|1076.43|2
+nFPJRzUK|0.44|246.16|3
+EdfdNo9e|0.47|196.34|3
+13soBsZY|0.67|307.33|4
+PWxiCzVf|0.67|345.75|4
+s7zSDslS|0.67|229.90|5
+w0U3A59i|0.18|73.99 |5
+pnLvYFLP|0.85|927.80|5
+1QOTeBkY|0.47|224.48|6
+Best quest found: AndskKj3 (Ratio: 1076.43) - (diff: 0.85)
+--------------------------------------------------
+Attempting to solve quest: AndskKj3
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 3389,
+  score: 20939,
+  highScore: 0,
+  turn: 137,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+nFPJRzUK|0.44|264.00|2
+EdfdNo9e|0.47|210.73|2
+13soBsZY|0.67|329.85|3
+PWxiCzVf|0.67|371.08|3
+s7zSDslS|0.67|245.59|4
+w0U3A59i|0.18|78.32 |4
+pnLvYFLP|0.85|995.27|4
+1QOTeBkY|0.47|237.96|5
+iW6FjjR0|0.47|180.69|7
+ZWkGNzsz|0.47|264.61|7
+Best quest found: pnLvYFLP (Ratio: 995.27) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 3089, lives: 5, level: 120, turn: 138 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+nFPJRzUK|0.44|284.63|1
+EdfdNo9e|0.67|351.97|1
+13soBsZY|0.67|355.92|2
+PWxiCzVf|0.67|400.41|2
+s7zSDslS|0.67|263.58|3
+w0U3A59i|0.18|83.18 |3
+pnLvYFLP|0.85|1073.33|3
+1QOTeBkY|0.67|385.54|4
+iW6FjjR0|0.67|288.52|6
+ZWkGNzsz|0.67|422.52|6
+Best quest found: pnLvYFLP (Ratio: 1073.33) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 2789, lives: 5, level: 122, turn: 139 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+13soBsZY|0.75|448.00|1
+PWxiCzVf|0.75|504.00|1
+s7zSDslS|0.75|328.78|2
+w0U3A59i|0.28|142.68|2
+pnLvYFLP|0.85|1164.68|2
+1QOTeBkY|0.75|477.17|3
+iW6FjjR0|0.67|306.96|5
+ZWkGNzsz|0.67|449.52|5
+sAEwRZQa|0.85|686.09|7
+72JAE2k5|0.44|167.34|7
+Best quest found: pnLvYFLP (Ratio: 1164.68) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 2489, lives: 5, level: 124, turn: 140 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+s7zSDslS|0.75|358.00|1
+w0U3A59i|0.28|153.18|1
+pnLvYFLP|0.96|1515.29|1
+1QOTeBkY|0.75|516.12|2
+iW6FjjR0|0.67|327.91|4
+ZWkGNzsz|0.67|480.20|4
+sAEwRZQa|0.85|729.65|6
+72JAE2k5|0.47|190.40|6
+tGiOeyey|0.28|124.43|7
+UZV7YMo1|0.67|195.50|7
+Best quest found: pnLvYFLP (Ratio: 1515.29) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: pnLvYFLP
+Response from API: {
+  success: true,
+  lives: 5,
+  gold: 3294,
+  score: 21744,
+  highScore: 0,
+  turn: 141,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+1QOTeBkY|0.75|562.00|1
+iW6FjjR0|0.67|351.93|3
+ZWkGNzsz|0.67|515.38|3
+sAEwRZQa|0.85|779.12|5
+72JAE2k5|0.47|201.83|5
+tGiOeyey|0.28|131.12|6
+UZV7YMo1|0.67|207.24|6
+HStH9nRe|0.67|239.15|7
+WpVqh0CU|0.18|82.84 |7
+SDxdQcBd|0.47|205.89|7
+Best quest found: sAEwRZQa (Ratio: 779.12) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 2994, lives: 5, level: 126, turn: 142 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+iW6FjjR0|0.75|438.98|2
+ZWkGNzsz|0.67|556.13|2
+sAEwRZQa|0.96|983.27|4
+72JAE2k5|0.47|214.73|4
+tGiOeyey|0.28|138.57|5
+UZV7YMo1|0.67|220.48|5
+HStH9nRe|0.67|253.51|6
+WpVqh0CU|0.28|139.25|6
+SDxdQcBd|0.47|217.56|6
+27Ur2VFE|0.75|407.83|7
+Best quest found: sAEwRZQa (Ratio: 983.27) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: sAEwRZQa
+Response from API: {
+  success: false,
+  lives: 4,
+  gold: 2994,
+  score: 21744,
+  highScore: 0,
+  turn: 143,
+  message: 'You failed on the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+iW6FjjR0|0.75|478.00|1
+ZWkGNzsz|0.67|603.86|1
+72JAE2k5|0.47|229.39|3
+tGiOeyey|0.28|146.92|4
+UZV7YMo1|0.67|235.53|4
+HStH9nRe|0.67|269.71|5
+WpVqh0CU|0.28|147.16|5
+SDxdQcBd|0.47|230.62|5
+27Ur2VFE|0.75|432.92|6
+Avo5iAWk|0.85|759.16|7
+Best quest found: Avo5iAWk (Ratio: 759.16) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 2694, lives: 4, level: 128, turn: 144 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+72JAE2k5|0.47|246.19|2
+tGiOeyey|0.44|258.95|3
+UZV7YMo1|0.75|291.51|3
+HStH9nRe|0.67|288.12|4
+WpVqh0CU|0.28|156.02|4
+SDxdQcBd|0.47|245.36|4
+27Ur2VFE|0.75|461.31|5
+Avo5iAWk|0.85|807.37|6
+u2QGFiMH|0.28|130.14|7
+qYQK2OBq|0.96|1079.70|7
+Best quest found: qYQK2OBq (Ratio: 1079.70) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: qYQK2OBq
+Response from API: {
+  success: true,
+  lives: 4,
+  gold: 3605,
+  score: 22655,
+  highScore: 0,
+  turn: 145,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+72JAE2k5|0.47|265.65|1
+tGiOeyey|0.44|277.71|2
+UZV7YMo1|0.75|315.31|2
+HStH9nRe|0.67|309.23|3
+WpVqh0CU|0.28|166.03|3
+SDxdQcBd|0.47|262.11|3
+27Ur2VFE|0.75|493.68|4
+Avo5iAWk|0.85|862.10|5
+u2QGFiMH|0.28|137.14|6
+yCc8jKWt|0.67|309.00|7
+Best quest found: Avo5iAWk (Ratio: 862.10) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 3305, lives: 4, level: 130, turn: 146 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+tGiOeyey|0.44|299.41|1
+UZV7YMo1|0.75|343.33|1
+HStH9nRe|0.67|333.68|2
+WpVqh0CU|0.44|294.93|2
+SDxdQcBd|0.47|281.31|2
+27Ur2VFE|0.75|530.94|3
+Avo5iAWk|0.96|1088.00|4
+u2QGFiMH|0.28|144.93|5
+yCc8jKWt|0.75|375.69|6
+N1v0PeUe|0.18|101.37|7
+Best quest found: Avo5iAWk (Ratio: 1088.00) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: Avo5iAWk
+Response from API: {
+  success: true,
+  lives: 4,
+  gold: 4053,
+  score: 23403,
+  highScore: 0,
+  turn: 147,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+HStH9nRe|0.67|362.32|1
+WpVqh0CU|0.44|317.97|1
+SDxdQcBd|0.47|303.55|1
+27Ur2VFE|0.75|574.29|2
+u2QGFiMH|0.28|153.66|4
+yCc8jKWt|0.75|400.33|5
+N1v0PeUe|0.18|106.68|6
+Re60xHBG|0.96|1310.81|7
+DqMe8yT5|0.75|346.96|7
+nRnrAg58|0.44|163.83|7
+Best quest found: Re60xHBG (Ratio: 1310.81) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: Re60xHBG
+Response from API: {
+  success: true,
+  lives: 4,
+  gold: 5159,
+  score: 24509,
+  highScore: 0,
+  turn: 148,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+27Ur2VFE|0.75|625.33|1
+u2QGFiMH|0.28|163.51|3
+yCc8jKWt|0.75|428.42|4
+N1v0PeUe|0.18|112.57|5
+DqMe8yT5|0.75|368.31|6
+nRnrAg58|0.44|173.03|6
+wCTuHtGZ|0.11|34.64 |7
+BS5urPQy|0.28|128.00|7
+3RL6JAQa|0.18|75.22 |7
+8Dw2rcB3|0.75|359.13|7
+Best quest found: 27Ur2VFE (Ratio: 625.33) - (diff: 0.75)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 4859, lives: 4, level: 132, turn: 149 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+u2QGFiMH|0.28|174.71|2
+yCc8jKWt|0.75|460.75|3
+N1v0PeUe|0.28|190.94|4
+DqMe8yT5|0.85|919.73|5
+nRnrAg58|0.44|183.33|5
+wCTuHtGZ|0.11|36.42 |6
+BS5urPQy|0.28|134.88|6
+3RL6JAQa|0.28|126.45|6
+8Dw2rcB3|0.75|381.23|6
+qaWsr1VJ|0.11|51.96 |7
+Best quest found: DqMe8yT5 (Ratio: 919.73) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 4559, lives: 4, level: 134, turn: 150 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+u2QGFiMH|0.28|187.56|1
+yCc8jKWt|0.75|498.37|2
+N1v0PeUe|0.28|203.18|3
+DqMe8yT5|0.85|986.62|4
+nRnrAg58|0.47|210.22|4
+wCTuHtGZ|0.18|64.04 |5
+BS5urPQy|0.28|142.55|5
+3RL6JAQa|0.28|133.64|5
+8Dw2rcB3|0.75|406.23|5
+qaWsr1VJ|0.11|54.63 |6
+Best quest found: DqMe8yT5 (Ratio: 986.62) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 4259, lives: 4, level: 136, turn: 151 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+yCc8jKWt|0.75|542.67|1
+N1v0PeUe|0.28|217.10|2
+DqMe8yT5|0.85|1064.00|3
+nRnrAg58|0.47|224.57|3
+wCTuHtGZ|0.18|67.79 |4
+BS5urPQy|0.28|151.13|4
+3RL6JAQa|0.28|141.69|4
+8Dw2rcB3|0.85|1021.24|4
+qaWsr1VJ|0.11|57.59 |5
+CUNmLWeN|0.47|181.45|7
+Best quest found: DqMe8yT5 (Ratio: 1064.00) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 3959, lives: 4, level: 138, turn: 152 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+N1v0PeUe|0.44|389.13|1
+DqMe8yT5|0.96|1368.00|2
+nRnrAg58|0.67|370.75|2
+wCTuHtGZ|0.28|115.59|3
+BS5urPQy|0.44|266.38|3
+3RL6JAQa|0.44|249.73|3
+8Dw2rcB3|0.85|1101.33|3
+qaWsr1VJ|0.18|101.68|4
+CUNmLWeN|0.67|289.73|6
+cyerQFGV|0   |0.00  |7
+Best quest found: DqMe8yT5 (Ratio: 1368.00) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: DqMe8yT5
+Response from API: {
+  success: true,
+  lives: 4,
+  gold: 4757,
+  score: 25307,
+  highScore: 0,
+  turn: 153,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+nRnrAg58|0.67|402.58|1
+wCTuHtGZ|0.28|123.51|2
+BS5urPQy|0.44|285.68|2
+3RL6JAQa|0.44|267.83|2
+8Dw2rcB3|0.85|1195.06|2
+qaWsr1VJ|0.18|108.00|3
+CUNmLWeN|0.67|308.24|5
+cyerQFGV|0   |0.00  |6
+WJQzE1ol|0.75|411.74|7
+QNNdNUc5|0.44|204.32|7
+Best quest found: 8Dw2rcB3 (Ratio: 1195.06) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 4457, lives: 4, level: 140, turn: 154 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+wCTuHtGZ|0.28|132.59|1
+BS5urPQy|0.44|308.00|1
+3RL6JAQa|0.44|288.75|1
+8Dw2rcB3|0.85|1306.23|1
+qaWsr1VJ|0.18|115.15|2
+CUNmLWeN|0.67|329.28|4
+cyerQFGV|0.11|58.31 |5
+WJQzE1ol|0.85|1022.16|6
+QNNdNUc5|0.47|232.47|6
+GO5QzVSC|0.18|76.84 |7
+Best quest found: 8Dw2rcB3 (Ratio: 1306.23) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 4157, lives: 4, level: 142, turn: 155 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+qaWsr1VJ|0.18|123.32|1
+CUNmLWeN|0.75|407.55|3
+cyerQFGV|0.11|61.65 |4
+WJQzE1ol|0.85|1091.46|5
+QNNdNUc5|0.47|246.43|5
+GO5QzVSC|0.28|129.16|6
+6yX1oZto|0.67|330.25|7
+zuJc6OtB|0.28|135.00|7
+EDDJYlfS|0.67|409.97|7
+Imo29Zi4|0.18|77.91 |7
+Best quest found: WJQzE1ol (Ratio: 1091.46) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 3857, lives: 4, level: 144, turn: 156 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+CUNmLWeN|0.75|440.82|2
+cyerQFGV|0.11|65.40 |3
+WJQzE1ol|0.85|1170.84|4
+QNNdNUc5|0.47|262.18|4
+GO5QzVSC|0.28|136.50|5
+6yX1oZto|0.75|401.54|6
+zuJc6OtB|0.44|233.60|6
+EDDJYlfS|0.75|498.46|6
+Imo29Zi4|0.18|81.99 |6
+nVENCKP1|0   |0.00  |7
+Best quest found: WJQzE1ol (Ratio: 1170.84) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 3557, lives: 4, level: 146, turn: 157 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+CUNmLWeN|0.75|480.00|1
+cyerQFGV|0.11|69.63 |2
+WJQzE1ol|0.96|1490.36|3
+QNNdNUc5|0.47|280.08|3
+GO5QzVSC|0.44|238.94|4
+6yX1oZto|0.75|427.87|5
+zuJc6OtB|0.44|247.50|5
+EDDJYlfS|0.75|531.15|5
+Imo29Zi4|0.28|138.41|5
+nVENCKP1|0.11|51.58 |6
+Best quest found: WJQzE1ol (Ratio: 1490.36) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: WJQzE1ol
+Response from API: {
+  success: true,
+  lives: 4,
+  gold: 4504,
+  score: 26254,
+  highScore: 0,
+  turn: 158,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+cyerQFGV|0.11|74.45 |1
+QNNdNUc5|0.47|300.59|2
+GO5QzVSC|0.44|255.08|3
+6yX1oZto|0.75|457.89|4
+zuJc6OtB|0.44|263.16|4
+EDDJYlfS|0.75|568.42|4
+Imo29Zi4|0.28|146.75|4
+nVENCKP1|0.11|54.37 |5
+LBBO2INx|0.47|192.54|7
+aVHHZVRz|0.28|153.71|7
+Best quest found: EDDJYlfS (Ratio: 568.42) - (diff: 0.75)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 4204, lives: 4, level: 148, turn: 159 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+QNNdNUc5|0.67|502.07|1
+GO5QzVSC|0.44|273.57|2
+6yX1oZto|0.75|492.45|3
+zuJc6OtB|0.47|303.17|3
+EDDJYlfS|0.75|611.32|3
+Imo29Zi4|0.44|258.65|3
+nVENCKP1|0.11|57.49 |4
+LBBO2INx|0.67|307.44|6
+aVHHZVRz|0.28|161.98|6
+EmfOM42y|0.44|248.32|7
+Best quest found: EDDJYlfS (Ratio: 611.32) - (diff: 0.75)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 3904, lives: 4, level: 150, turn: 160 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+GO5QzVSC|0.47|318.78|1
+6yX1oZto|0.75|532.65|2
+zuJc6OtB|0.67|500.51|2
+EDDJYlfS|0.85|1562.55|2
+Imo29Zi4|0.44|277.39|2
+nVENCKP1|0.18|101.96|3
+LBBO2INx|0.67|327.08|5
+aVHHZVRz|0.44|281.81|5
+EmfOM42y|0.47|282.53|6
+57c2VyD7|0.11|50.99 |7
+Best quest found: EDDJYlfS (Ratio: 1562.55) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 3604, lives: 4, level: 152, turn: 161 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+6yX1oZto|0.75|580.00|1
+zuJc6OtB|0.67|543.48|1
+EDDJYlfS|0.85|1707.91|1
+Imo29Zi4|0.47|323.24|1
+nVENCKP1|0.18|108.72|2
+LBBO2INx|0.67|349.41|4
+aVHHZVRz|0.44|299.65|4
+EmfOM42y|0.47|299.50|5
+57c2VyD7|0.11|53.61 |6
+zRQeUawk|0.28|102.86|7
+Best quest found: EDDJYlfS (Ratio: 1707.91) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 3304, lives: 4, level: 154, turn: 162 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+nVENCKP1|0.28|187.76|1
+LBBO2INx|0.75|432.45|3
+aVHHZVRz|0.47|345.20|3
+EmfOM42y|0.67|485.24|4
+57c2VyD7|0.11|56.52 |5
+zRQeUawk|0.28|108.39|6
+rszRd5nC|0.75|443.91|7
+UvbRyKbx|0.44|284.36|7
+sg6oC5eF|0.75|330.87|7
+3a4OTRk0|0.96|882.96|7
+Best quest found: 3a4OTRk0 (Ratio: 882.96) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: 3a4OTRk0
+Response from API: {
+  success: false,
+  lives: 3,
+  gold: 3304,
+  score: 26254,
+  highScore: 0,
+  turn: 163,
+  message: 'You failed on the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+LBBO2INx|0.75|467.76|2
+aVHHZVRz|0.47|370.49|2
+EmfOM42y|0.67|520.78|3
+57c2VyD7|0.11|59.76 |4
+zRQeUawk|0.28|114.55|5
+rszRd5nC|0.75|471.23|6
+UvbRyKbx|0.44|300.34|6
+sg6oC5eF|0.75|351.23|6
+JzboRli1|0.75|420.87|7
+dEmMvGgR|0.67|249.02|7
+Best quest found: EmfOM42y (Ratio: 520.78) - (diff: 0.67)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 3004, lives: 3, level: 156, turn: 164 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+LBBO2INx|0.75|509.33|1
+aVHHZVRz|0.47|399.78|1
+EmfOM42y|0.67|561.95|2
+57c2VyD7|0.11|63.39 |3
+zRQeUawk|0.28|121.45|4
+rszRd5nC|0.85|1176.75|5
+UvbRyKbx|0.47|342.97|5
+sg6oC5eF|0.85|877.08|5
+JzboRli1|0.75|446.77|6
+dEmMvGgR|0.67|263.98|6
+Best quest found: rszRd5nC (Ratio: 1176.75) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 2704, lives: 3, level: 158, turn: 165 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+EmfOM42y|0.67|610.19|1
+57c2VyD7|0.11|67.50 |2
+zRQeUawk|0.28|129.23|3
+rszRd5nC|0.85|1262.33|4
+UvbRyKbx|0.47|364.89|4
+sg6oC5eF|0.85|940.87|4
+JzboRli1|0.75|476.07|5
+dEmMvGgR|0.67|280.84|5
+jjyfJsnq|0.18|68.42 |7
+yKEha5nG|0.47|183.97|7
+Best quest found: rszRd5nC (Ratio: 1262.33) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 2404, lives: 3, level: 160, turn: 166 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+57c2VyD7|0.11|72.17 |1
+zRQeUawk|0.28|138.08|2
+rszRd5nC|0.85|1361.33|3
+UvbRyKbx|0.47|389.80|3
+sg6oC5eF|0.85|1014.67|3
+JzboRli1|0.75|509.47|4
+dEmMvGgR|0.67|300.01|4
+jjyfJsnq|0.28|115.01|6
+yKEha5nG|0.67|293.75|6
+BQ0FUhkT|0.85|988.54|7
+Best quest found: rszRd5nC (Ratio: 1361.33) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 2104, lives: 3, level: 162, turn: 167 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+zRQeUawk|0.44|247.50|1
+rszRd5nC|0.96|1750.29|2
+UvbRyKbx|0.67|643.52|2
+sg6oC5eF|0.85|1101.02|2
+JzboRli1|0.85|1290.67|3
+dEmMvGgR|0.75|371.32|3
+jjyfJsnq|0.28|121.55|5
+yKEha5nG|0.67|312.52|5
+BQ0FUhkT|0.85|1051.30|6
+8xC9kBSd|0.18|68.51 |7
+Best quest found: rszRd5nC (Ratio: 1750.29) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: rszRd5nC
+Response from API: {
+  success: true,
+  lives: 3,
+  gold: 3125,
+  score: 27275,
+  highScore: 0,
+  turn: 168,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+UvbRyKbx|0.67|698.76|1
+sg6oC5eF|0.85|1203.44|1
+JzboRli1|0.85|1400.51|2
+dEmMvGgR|0.75|401.63|2
+jjyfJsnq|0.28|128.87|4
+yKEha5nG|0.67|333.86|4
+BQ0FUhkT|0.85|1122.58|5
+8xC9kBSd|0.18|72.09 |6
+q4wdPQpJ|0.85|802.81|7
+Old90MNi|0.28|196.57|7
+Best quest found: JzboRli1 (Ratio: 1400.51) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 2825, lives: 3, level: 164, turn: 169 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+JzboRli1|0.85|1530.79|1
+dEmMvGgR|0.75|437.33|1
+jjyfJsnq|0.44|227.14|3
+yKEha5nG|0.67|358.32|3
+BQ0FUhkT|0.96|1416.73|4
+8xC9kBSd|0.18|76.08 |5
+q4wdPQpJ|0.96|999.16|6
+Old90MNi|0.28|207.14|6
+Umt49GdY|0.75|523.48|7
+gscVuObx|0.28|172.00|7
+Best quest found: JzboRli1 (Ratio: 1530.79) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 2525, lives: 3, level: 166, turn: 170 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+jjyfJsnq|0.44|243.59|2
+yKEha5nG|0.75|446.94|2
+BQ0FUhkT|0.96|1532.85|3
+8xC9kBSd|0.18|80.53 |4
+q4wdPQpJ|0.96|1069.52|5
+Old90MNi|0.28|218.91|5
+Umt49GdY|0.75|555.69|6
+gscVuObx|0.44|297.62|6
+WbF0ay4C|0.11|46.80 |7
+AXbxnhvu|0.28|146.71|7
+Best quest found: BQ0FUhkT (Ratio: 1532.85) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: BQ0FUhkT
+Response from API: {
+  success: true,
+  lives: 3,
+  gold: 3499,
+  score: 28249,
+  highScore: 0,
+  turn: 171,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+jjyfJsnq|0.44|262.63|1
+yKEha5nG|0.75|486.67|1
+8xC9kBSd|0.18|85.53 |3
+q4wdPQpJ|0.96|1150.55|4
+Old90MNi|0.28|232.10|4
+Umt49GdY|0.75|592.13|5
+gscVuObx|0.44|315.33|5
+WbF0ay4C|0.11|49.20 |6
+AXbxnhvu|0.28|154.60|6
+AqSm35Ie|0.85|928.66|7
+Best quest found: q4wdPQpJ (Ratio: 1150.55) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: q4wdPQpJ
+Response from API: {
+  success: true,
+  lives: 3,
+  gold: 4290,
+  score: 29040,
+  highScore: 0,
+  turn: 172,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+8xC9kBSd|0.18|91.19 |2
+Old90MNi|0.28|246.97|3
+Umt49GdY|0.75|633.68|4
+gscVuObx|0.44|335.29|4
+WbF0ay4C|0.11|51.87 |5
+AXbxnhvu|0.28|163.39|5
+AqSm35Ie|0.85|987.62|6
+Z8o62NbK|0.47|354.83|7
+7zqrlUib|0.18|83.55 |7
+zQscP4hO|0.47|221.77|7
+Best quest found: AqSm35Ie (Ratio: 987.62) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 3990, lives: 3, level: 168, turn: 173 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+8xC9kBSd|0.28|157.50|1
+Old90MNi|0.28|263.89|2
+Umt49GdY|0.85|1605.33|3
+gscVuObx|0.44|357.95|3
+WbF0ay4C|0.11|54.84 |4
+AXbxnhvu|0.44|286.00|4
+AqSm35Ie|0.85|1054.58|5
+Z8o62NbK|0.47|374.93|6
+7zqrlUib|0.18|87.93 |6
+zQscP4hO|0.47|234.33|6
+Best quest found: Umt49GdY (Ratio: 1605.33) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 3690, lives: 3, level: 170, turn: 174 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+Old90MNi|0.44|473.00|1
+Umt49GdY|0.85|1741.96|2
+gscVuObx|0.47|414.56|2
+WbF0ay4C|0.11|58.18 |3
+AXbxnhvu|0.47|329.48|3
+AqSm35Ie|0.85|1131.27|4
+Z8o62NbK|0.67|602.79|5
+7zqrlUib|0.28|148.43|5
+zQscP4hO|0.67|376.74|5
+K8qAqGU5|0.85|1030.15|7
+Best quest found: Umt49GdY (Ratio: 1741.96) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 3390, lives: 3, level: 172, turn: 175 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+Umt49GdY|0.85|1904.00|1
+gscVuObx|0.47|447.34|1
+WbF0ay4C|0.11|61.94 |2
+AXbxnhvu|0.47|353.62|2
+AqSm35Ie|0.96|1440.00|3
+Z8o62NbK|0.67|643.93|4
+7zqrlUib|0.28|157.37|4
+zQscP4hO|0.67|402.46|4
+K8qAqGU5|0.85|1095.56|6
+5KXuRlag|0.85|968.24|7
+Best quest found: Umt49GdY (Ratio: 1904.00) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 3090, lives: 3, level: 174, turn: 176 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+WbF0ay4C|0.11|66.23 |1
+AXbxnhvu|0.47|381.57|1
+AqSm35Ie|0.96|1568.57|2
+Z8o62NbK|0.75|796.98|3
+7zqrlUib|0.28|167.46|3
+zQscP4hO|0.75|498.11|3
+K8qAqGU5|0.85|1169.83|5
+5KXuRlag|0.85|1029.71|6
+ZsZbIJ1H|0.28|140.43|7
+cu9BmTGN|0.11|54.81 |7
+Best quest found: AqSm35Ie (Ratio: 1568.57) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: AqSm35Ie
+Response from API: {
+  success: true,
+  lives: 3,
+  gold: 4005,
+  score: 29955,
+  highScore: 0,
+  turn: 177,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+Z8o62NbK|0.75|862.04|2
+7zqrlUib|0.28|178.93|2
+zQscP4hO|0.75|538.78|2
+K8qAqGU5|0.85|1254.91|4
+5KXuRlag|0.85|1099.53|5
+ZsZbIJ1H|0.28|147.98|6
+cu9BmTGN|0.11|57.63 |6
+eSz9OZT0|0.28|152.43|7
+48Nt4EgB|0.44|297.23|7
+qZqreo0J|0.75|543.91|7
+Best quest found: K8qAqGU5 (Ratio: 1254.91) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 3705, lives: 3, level: 176, turn: 178 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+Z8o62NbK|0.75|938.67|1
+7zqrlUib|0.44|320.72|1
+zQscP4hO|0.75|586.67|1
+K8qAqGU5|0.85|1353.33|3
+5KXuRlag|0.85|1179.49|4
+ZsZbIJ1H|0.44|257.45|5
+cu9BmTGN|0.11|60.75 |5
+eSz9OZT0|0.28|160.62|6
+48Nt4EgB|0.47|338.19|6
+qZqreo0J|0.85|1350.29|6
+Best quest found: K8qAqGU5 (Ratio: 1353.33) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 3405, lives: 3, level: 178, turn: 179 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+K8qAqGU5|0.96|1740.00|2
+5KXuRlag|0.85|1272.00|3
+ZsZbIJ1H|0.44|273.75|4
+cu9BmTGN|0.18|107.26|4
+eSz9OZT0|0.44|279.45|5
+48Nt4EgB|0.67|543.71|5
+qZqreo0J|0.85|1441.83|5
+jtvqcY4i|0.96|1300.15|7
+29ab3Thd|0.47|262.60|7
+OjjNe73o|0.47|201.61|7
+Best quest found: K8qAqGU5 (Ratio: 1740.00) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: K8qAqGU5
+Response from API: {
+  success: true,
+  lives: 3,
+  gold: 4420,
+  score: 30970,
+  highScore: 0,
+  turn: 180,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+5KXuRlag|0.85|1380.26|2
+ZsZbIJ1H|0.44|292.24|3
+cu9BmTGN|0.18|113.93|3
+eSz9OZT0|0.44|297.14|4
+48Nt4EgB|0.67|580.82|4
+qZqreo0J|0.85|1546.69|4
+jtvqcY4i|0.96|1385.68|6
+29ab3Thd|0.47|277.47|6
+OjjNe73o|0.47|213.03|6
+OogUKy6k|0.28|206.86|7
+Best quest found: qZqreo0J (Ratio: 1546.69) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 4120, lives: 3, level: 180, turn: 181 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+5KXuRlag|0.85|1508.65|1
+ZsZbIJ1H|0.47|338.47|2
+cu9BmTGN|0.18|121.47|2
+eSz9OZT0|0.44|317.22|3
+48Nt4EgB|0.67|623.37|3
+qZqreo0J|0.85|1668.00|3
+jtvqcY4i|0.96|1483.27|5
+29ab3Thd|0.67|446.10|5
+OjjNe73o|0.67|342.49|5
+OogUKy6k|0.44|357.93|6
+Best quest found: qZqreo0J (Ratio: 1668.00) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 3820, lives: 3, level: 182, turn: 182 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+ZsZbIJ1H|0.47|365.23|1
+cu9BmTGN|0.28|209.79|1
+eSz9OZT0|0.44|340.20|2
+48Nt4EgB|0.67|672.65|2
+qZqreo0J|0.85|1809.96|2
+jtvqcY4i|0.96|1595.64|4
+29ab3Thd|0.67|476.55|4
+OjjNe73o|0.67|365.87|4
+OogUKy6k|0.44|379.24|5
+fr4f9UbB|0.96|1441.19|7
+Best quest found: qZqreo0J (Ratio: 1809.96) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 3520, lives: 3, level: 184, turn: 183 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+eSz9OZT0|0.47|396.43|1
+48Nt4EgB|0.75|846.67|1
+qZqreo0J|0.96|2354.82|1
+jtvqcY4i|0.96|1726.43|3
+29ab3Thd|0.67|511.46|3
+OjjNe73o|0.75|452.83|3
+OogUKy6k|0.47|434.86|4
+fr4f9UbB|0.96|1536.00|6
+VkxerRor|0.96|1342.81|7
+l5A9CXxB|0.28|186.57|7
+Best quest found: qZqreo0J (Ratio: 2354.82) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: qZqreo0J
+Response from API: {
+  success: true,
+  lives: 3,
+  gold: 4771,
+  score: 32221,
+  highScore: 0,
+  turn: 184,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+jtvqcY4i|0.96|1880.57|2
+29ab3Thd|0.67|551.89|2
+OjjNe73o|0.75|489.80|2
+OogUKy6k|0.47|464.55|3
+fr4f9UbB|0.96|1644.17|5
+VkxerRor|0.96|1431.16|6
+l5A9CXxB|0.28|196.60|6
+NqeOCS30|0.96|1425.78|7
+KDbFvPs1|0.85|1378.27|7
+SCrDL0Vr|0.96|1357.04|7
+Best quest found: jtvqcY4i (Ratio: 1880.57) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: jtvqcY4i
+Response from API: {
+  success: true,
+  lives: 3,
+  gold: 5868,
+  score: 33318,
+  highScore: 0,
+  turn: 185,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+29ab3Thd|0.67|599.26|1
+OjjNe73o|0.75|533.33|1
+OogUKy6k|0.47|498.58|2
+fr4f9UbB|0.96|1768.73|4
+VkxerRor|0.96|1531.94|5
+l5A9CXxB|0.28|207.77|5
+NqeOCS30|0.96|1519.58|6
+KDbFvPs1|0.85|1465.78|6
+SCrDL0Vr|0.96|1446.32|6
+pg5rgk5e|0.44|313.38|7
+Best quest found: fr4f9UbB (Ratio: 1768.73) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: fr4f9UbB
+Response from API: {
+  success: true,
+  lives: 3,
+  gold: 7084,
+  score: 34534,
+  highScore: 0,
+  turn: 186,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+OogUKy6k|0.47|537.99|1
+VkxerRor|0.96|1648.00|4
+l5A9CXxB|0.28|220.29|4
+NqeOCS30|0.96|1626.59|5
+KDbFvPs1|0.85|1565.15|5
+SCrDL0Vr|0.96|1548.17|5
+pg5rgk5e|0.44|330.99|6
+XP5TBIJH|0.28|174.57|7
+aFtLQW94|0.85|1003.76|7
+jFrNqniZ|0.47|249.24|7
+Best quest found: VkxerRor (Ratio: 1648.00) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: VkxerRor
+Response from API: {
+  success: true,
+  lives: 3,
+  gold: 8217,
+  score: 35667,
+  highScore: 0,
+  turn: 187,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+l5A9CXxB|0.28|234.41|3
+NqeOCS30|0.96|1749.82|4
+KDbFvPs1|0.85|1678.98|4
+SCrDL0Vr|0.96|1665.45|4
+pg5rgk5e|0.44|350.69|5
+XP5TBIJH|0.28|183.96|6
+aFtLQW94|0.85|1067.49|6
+jFrNqniZ|0.47|263.36|6
+n1dSGHjk|0.28|169.00|7
+dyDmZMpw|0.47|303.17|7
+Best quest found: NqeOCS30 (Ratio: 1749.82) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: NqeOCS30
+Response from API: {
+  success: true,
+  lives: 3,
+  gold: 9420,
+  score: 36870,
+  highScore: 0,
+  turn: 188,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+l5A9CXxB|0.28|250.47|2
+KDbFvPs1|0.85|1810.67|3
+SCrDL0Vr|0.96|1801.97|3
+pg5rgk5e|0.44|372.89|4
+XP5TBIJH|0.28|194.41|5
+aFtLQW94|0.85|1139.86|5
+jFrNqniZ|0.47|279.18|5
+n1dSGHjk|0.28|178.09|6
+dyDmZMpw|0.47|320.35|6
+8DF6bzBl|0.11|57.39 |7
+Best quest found: SCrDL0Vr (Ratio: 1801.97) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: SCrDL0Vr
+Response from API: {
+  success: false,
+  lives: 2,
+  gold: 9420,
+  score: 36870,
+  highScore: 0,
+  turn: 189,
+  message: 'You failed on the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+l5A9CXxB|0.28|268.88|1
+KDbFvPs1|0.85|1964.77|2
+pg5rgk5e|0.44|398.08|3
+XP5TBIJH|0.28|206.12|4
+aFtLQW94|0.85|1222.76|4
+jFrNqniZ|0.47|297.02|4
+n1dSGHjk|0.28|188.20|5
+dyDmZMpw|0.47|339.59|5
+8DF6bzBl|0.11|60.34 |6
+bsDlHUWy|0.44|267.98|7
+Best quest found: KDbFvPs1 (Ratio: 1964.77) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 9120, lives: 2, level: 186, turn: 190 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+KDbFvPs1|0.85|2147.53|1
+pg5rgk5e|0.44|426.93|2
+XP5TBIJH|0.44|363.30|3
+aFtLQW94|0.85|1318.67|3
+jFrNqniZ|0.47|317.29|3
+n1dSGHjk|0.28|199.54|4
+dyDmZMpw|0.47|361.28|4
+8DF6bzBl|0.11|63.62 |5
+bsDlHUWy|0.47|304.90|6
+EACJCfpo|0.67|383.02|7
+Best quest found: KDbFvPs1 (Ratio: 2147.53) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 8820, lives: 2, level: 188, turn: 191 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+pg5rgk5e|0.47|497.49|1
+XP5TBIJH|0.47|420.76|2
+aFtLQW94|0.96|1695.43|2
+jFrNqniZ|0.47|340.53|2
+n1dSGHjk|0.44|351.70|3
+dyDmZMpw|0.67|590.48|3
+8DF6bzBl|0.11|67.26 |4
+bsDlHUWy|0.47|323.21|5
+EACJCfpo|0.67|406.02|6
+XLLRN3Ez|0.28|140.00|7
+Best quest found: aFtLQW94 (Ratio: 1695.43) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: aFtLQW94
+Response from API: {
+  success: true,
+  lives: 2,
+  gold: 9809,
+  score: 37859,
+  highScore: 0,
+  turn: 192,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+XP5TBIJH|0.47|454.02|1
+jFrNqniZ|0.47|367.45|1
+n1dSGHjk|0.44|377.19|2
+dyDmZMpw|0.67|637.16|2
+8DF6bzBl|0.11|71.35 |3
+bsDlHUWy|0.47|343.87|4
+EACJCfpo|0.67|431.97|5
+XLLRN3Ez|0.28|147.53|6
+06kiJIcs|0.96|1666.37|7
+PGHokTeL|0.44|259.55|7
+Best quest found: 06kiJIcs (Ratio: 1666.37) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: 06kiJIcs
+Response from API: {
+  success: true,
+  lives: 2,
+  gold: 11215,
+  score: 39265,
+  highScore: 0,
+  turn: 193,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+n1dSGHjk|0.44|406.66|1
+dyDmZMpw|0.67|691.85|1
+8DF6bzBl|0.11|75.97 |2
+bsDlHUWy|0.47|367.34|3
+EACJCfpo|0.67|461.45|4
+XLLRN3Ez|0.28|155.91|5
+PGHokTeL|0.44|274.13|6
+Sbf5U9Vr|0.28|166.86|7
+uldn1f7u|0.47|329.38|7
+mZypiSzt|0.75|568.26|7
+Best quest found: dyDmZMpw (Ratio: 691.85) - (diff: 0.67)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 10915, lives: 2, level: 190, turn: 194 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+8DF6bzBl|0.11|81.22 |1
+bsDlHUWy|0.67|606.44|2
+EACJCfpo|0.67|495.26|3
+XLLRN3Ez|0.28|165.30|4
+PGHokTeL|0.44|290.45|5
+Sbf5U9Vr|0.28|175.83|6
+uldn1f7u|0.47|348.04|6
+mZypiSzt|0.75|603.23|6
+kMyYGWrU|0.47|184.72|7
+wuoaaDt0|0.85|1527.46|7
+Best quest found: wuoaaDt0 (Ratio: 1527.46) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 10615, lives: 2, level: 192, turn: 195 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+bsDlHUWy|0.67|658.50|1
+EACJCfpo|0.75|617.76|2
+XLLRN3Ez|0.44|291.35|3
+PGHokTeL|0.44|308.84|4
+Sbf5U9Vr|0.28|185.82|5
+uldn1f7u|0.47|368.94|5
+mZypiSzt|0.85|1506.37|5
+kMyYGWrU|0.47|195.19|6
+wuoaaDt0|0.85|1624.44|6
+7z9bRMbh|0.47|302.41|7
+Best quest found: wuoaaDt0 (Ratio: 1624.44) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 10315, lives: 2, level: 194, turn: 196 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+EACJCfpo|0.75|672.67|1
+XLLRN3Ez|0.47|337.44|2
+PGHokTeL|0.47|355.79|3
+Sbf5U9Vr|0.44|325.27|4
+uldn1f7u|0.67|597.74|4
+mZypiSzt|0.85|1615.93|4
+kMyYGWrU|0.67|313.81|5
+wuoaaDt0|0.85|1734.58|5
+7z9bRMbh|0.47|319.55|6
+eGTnB07w|0.75|553.48|7
+Best quest found: wuoaaDt0 (Ratio: 1734.58) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 10015, lives: 2, level: 196, turn: 197 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+XLLRN3Ez|0.47|364.11|1
+PGHokTeL|0.47|381.85|2
+Sbf5U9Vr|0.44|347.24|3
+uldn1f7u|0.67|641.53|3
+mZypiSzt|0.85|1742.67|3
+kMyYGWrU|0.67|335.23|4
+wuoaaDt0|0.85|1860.73|4
+7z9bRMbh|0.47|338.74|5
+eGTnB07w|0.75|587.54|6
+AH1Oi8BO|0.75|603.04|7
+Best quest found: wuoaaDt0 (Ratio: 1860.73) - (diff: 0.85)
+--------------------------------------------------
+Attempting to solve quest: wuoaaDt0
+Response from API: {
+  success: true,
+  lives: 2,
+  gold: 11520,
+  score: 40770,
+  highScore: 0,
+  turn: 198,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+PGHokTeL|0.47|412.04|1
+Sbf5U9Vr|0.44|372.41|2
+uldn1f7u|0.67|692.25|2
+mZypiSzt|0.85|1890.98|2
+kMyYGWrU|0.67|359.79|3
+7z9bRMbh|0.47|360.38|4
+eGTnB07w|0.75|626.07|5
+AH1Oi8BO|0.75|640.15|6
+n5tSpbHk|0.75|546.52|7
+bPnAvQoT|0.85|1505.13|7
+Best quest found: mZypiSzt (Ratio: 1890.98) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 11220, lives: 2, level: 198, turn: 199 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+Sbf5U9Vr|0.47|433.96|1
+uldn1f7u|0.75|871.33|1
+mZypiSzt|0.85|2066.88|1
+kMyYGWrU|0.75|448.78|2
+7z9bRMbh|0.67|589.01|3
+eGTnB07w|0.85|1573.89|4
+AH1Oi8BO|0.75|682.13|5
+n5tSpbHk|0.85|1356.76|6
+bPnAvQoT|0.85|1600.70|6
+4uBZ1ecc|0.67|351.89|7
+Best quest found: mZypiSzt (Ratio: 2066.88) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 10920, lives: 2, level: 200, turn: 200 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+kMyYGWrU|0.75|488.67|1
+7z9bRMbh|0.67|635.57|2
+eGTnB07w|0.85|1697.33|3
+AH1Oi8BO|0.85|1714.84|4
+n5tSpbHk|0.85|1448.75|5
+bPnAvQoT|0.96|2005.18|5
+4uBZ1ecc|0.67|373.03|6
+EUNUd9ZL|0.67|442.24|7
+mpA1nUcm|0.67|323.80|7
+zTecbgeG|0.75|524.35|7
+Best quest found: bPnAvQoT (Ratio: 2005.18) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: bPnAvQoT
+Response from API: {
+  success: true,
+  lives: 2,
+  gold: 12403,
+  score: 42253,
+  highScore: 0,
+  turn: 201,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+7z9bRMbh|0.67|690.13|1
+eGTnB07w|0.85|1841.79|2
+AH1Oi8BO|0.85|1849.33|3
+n5tSpbHk|0.85|1554.11|4
+4uBZ1ecc|0.67|396.86|5
+EUNUd9ZL|0.67|468.80|6
+mpA1nUcm|0.67|343.25|6
+zTecbgeG|0.75|556.62|6
+T9Kx8LGv|0.18|124.12|7
+MlhJHGKa|0.67|581.93|7
+Best quest found: eGTnB07w (Ratio: 1841.79) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 12103, lives: 2, level: 202, turn: 202 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+eGTnB07w|0.85|2013.12|1
+AH1Oi8BO|0.85|2006.72|2
+n5tSpbHk|0.96|1978.23|3
+4uBZ1ecc|0.75|487.89|4
+EUNUd9ZL|0.75|572.95|5
+mpA1nUcm|0.67|365.18|5
+zTecbgeG|0.75|593.11|5
+T9Kx8LGv|0.18|130.62|6
+MlhJHGKa|0.75|707.54|6
+bur6ibwV|0.28|195.00|7
+Best quest found: eGTnB07w (Ratio: 2013.12) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 11803, lives: 2, level: 204, turn: 203 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+AH1Oi8BO|0.85|2193.40|1
+n5tSpbHk|0.96|2154.86|2
+4uBZ1ecc|0.75|524.72|3
+EUNUd9ZL|0.75|613.16|4
+mpA1nUcm|0.75|448.95|4
+zTecbgeG|0.85|1491.05|4
+T9Kx8LGv|0.28|220.50|5
+MlhJHGKa|0.75|753.93|5
+bur6ibwV|0.28|205.48|6
+e5seEq9i|0.67|289.64|7
+Best quest found: AH1Oi8BO (Ratio: 2193.40) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 11503, lives: 2, level: 206, turn: 204 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+n5tSpbHk|0.96|2366.12|1
+4uBZ1ecc|0.75|567.55|2
+EUNUd9ZL|0.75|659.43|3
+mpA1nUcm|0.75|482.83|3
+zTecbgeG|0.85|1608.00|3
+T9Kx8LGv|0.28|233.78|4
+MlhJHGKa|0.75|806.84|4
+bur6ibwV|0.28|217.16|5
+e5seEq9i|0.67|307.03|6
+AnFsxq5A|0.28|226.29|7
+Best quest found: n5tSpbHk (Ratio: 2366.12) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: n5tSpbHk
+Response from API: {
+  success: true,
+  lives: 2,
+  gold: 12760,
+  score: 43510,
+  highScore: 0,
+  turn: 205,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+4uBZ1ecc|0.75|618.00|1
+EUNUd9ZL|0.75|713.27|2
+mpA1nUcm|0.75|522.24|2
+zTecbgeG|0.85|1744.85|2
+T9Kx8LGv|0.28|248.77|3
+MlhJHGKa|0.75|867.74|3
+bur6ibwV|0.28|230.24|4
+e5seEq9i|0.67|326.65|5
+AnFsxq5A|0.28|238.45|6
+hbv6Kgwb|0.18|135.40|7
+Best quest found: zTecbgeG (Ratio: 1744.85) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 12460, lives: 2, level: 208, turn: 206 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+EUNUd9ZL|0.75|776.67|1
+mpA1nUcm|0.75|568.67|1
+zTecbgeG|0.85|1907.16|1
+T9Kx8LGv|0.28|265.81|2
+MlhJHGKa|0.85|2217.96|2
+bur6ibwV|0.28|245.00|3
+e5seEq9i|0.67|348.95|4
+AnFsxq5A|0.28|252.00|5
+hbv6Kgwb|0.18|142.49|6
+VNnaedk3|0.28|142.00|7
+Best quest found: MlhJHGKa (Ratio: 2217.96) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 12160, lives: 2, level: 210, turn: 207 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+T9Kx8LGv|0.28|285.35|1
+MlhJHGKa|0.85|2424.28|1
+bur6ibwV|0.44|435.22|2
+e5seEq9i|0.75|431.89|3
+AnFsxq5A|0.28|267.18|4
+hbv6Kgwb|0.28|240.55|5
+VNnaedk3|0.44|245.71|6
+2DjouGXZ|0.85|1438.15|7
+t0Z7V2Gq|0.44|280.62|7
+tacrtoqt|0.67|546.25|7
+Best quest found: MlhJHGKa (Ratio: 2424.28) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 11860, lives: 2, level: 212, turn: 208 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+bur6ibwV|0.44|469.22|1
+e5seEq9i|0.85|1103.91|2
+AnFsxq5A|0.44|470.92|3
+hbv6Kgwb|0.28|255.04|4
+VNnaedk3|0.47|280.59|5
+2DjouGXZ|0.96|1789.89|6
+t0Z7V2Gq|0.44|296.38|6
+tacrtoqt|0.67|579.06|6
+nWKVsTYt|0.18|114.27|7
+ev8rlL4A|0.47|277.21|7
+Best quest found: 2DjouGXZ (Ratio: 1789.89) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: 2DjouGXZ
+Response from API: {
+  success: true,
+  lives: 2,
+  gold: 13277,
+  score: 44927,
+  highScore: 0,
+  turn: 209,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+e5seEq9i|0.85|1206.60|1
+AnFsxq5A|0.44|505.04|2
+hbv6Kgwb|0.28|271.38|3
+VNnaedk3|0.47|298.52|4
+t0Z7V2Gq|0.44|314.02|5
+tacrtoqt|0.67|616.06|5
+nWKVsTYt|0.18|120.25|6
+ev8rlL4A|0.47|292.92|6
+40oyKGxo|0.28|241.00|7
+leKLELj5|0.44|280.62|7
+Best quest found: e5seEq9i (Ratio: 1206.60) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 12977, lives: 2, level: 214, turn: 210 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+AnFsxq5A|0.47|588.52|1
+hbv6Kgwb|0.44|482.09|2
+VNnaedk3|0.47|318.89|3
+t0Z7V2Gq|0.47|360.08|4
+tacrtoqt|0.67|658.11|4
+nWKVsTYt|0.18|126.90|5
+ev8rlL4A|0.67|470.93|5
+40oyKGxo|0.28|253.96|6
+leKLELj5|0.47|319.28|6
+fMcHx7tl|0.85|1329.55|7
+Best quest found: fMcHx7tl (Ratio: 1329.55) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 12677, lives: 2, level: 216, turn: 211 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+hbv6Kgwb|0.44|519.75|1
+VNnaedk3|0.67|526.47|2
+t0Z7V2Gq|0.47|384.66|3
+tacrtoqt|0.75|814.53|3
+nWKVsTYt|0.28|215.23|4
+ev8rlL4A|0.67|503.07|4
+40oyKGxo|0.28|268.39|5
+leKLELj5|0.47|338.46|5
+fMcHx7tl|0.85|1413.97|6
+PQw7lu9P|0.75|623.48|7
+Best quest found: fMcHx7tl (Ratio: 1413.97) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 12377, lives: 2, level: 218, turn: 212 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+VNnaedk3|0.67|571.66|1
+t0Z7V2Gq|0.47|412.84|2
+tacrtoqt|0.75|881.02|2
+nWKVsTYt|0.28|229.03|3
+ev8rlL4A|0.75|622.64|3
+40oyKGxo|0.44|469.80|4
+leKLELj5|0.67|548.35|4
+fMcHx7tl|0.85|1509.83|5
+PQw7lu9P|0.75|661.85|6
+mqCvvxL5|0.96|1794.37|7
+Best quest found: mqCvvxL5 (Ratio: 1794.37) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: mqCvvxL5
+Response from API: {
+  success: true,
+  lives: 2,
+  gold: 13891,
+  score: 46441,
+  highScore: 0,
+  turn: 213,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+t0Z7V2Gq|0.47|445.48|1
+tacrtoqt|0.75|959.33|1
+nWKVsTYt|0.28|244.71|2
+ev8rlL4A|0.75|673.47|2
+40oyKGxo|0.44|501.54|3
+leKLELj5|0.67|588.52|3
+fMcHx7tl|0.85|1619.64|4
+PQw7lu9P|0.75|705.25|5
+HKDQC3RV|0.96|1864.30|7
+lAO3fG8L|0.18|126.63|7
+Best quest found: HKDQC3RV (Ratio: 1864.30) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: HKDQC3RV
+Response from API: {
+  success: true,
+  lives: 2,
+  gold: 15464,
+  score: 48014,
+  highScore: 0,
+  turn: 214,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+nWKVsTYt|0.28|262.71|1
+ev8rlL4A|0.75|733.33|1
+40oyKGxo|0.44|537.88|2
+leKLELj5|0.67|635.04|2
+fMcHx7tl|0.85|1746.67|3
+PQw7lu9P|0.75|754.74|4
+lAO3fG8L|0.18|133.26|6
+GUNReZVJ|0.47|344.75|7
+DvLTjurR|0.75|872.17|7
+EongrMrE|0.44|378.91|7
+Best quest found: fMcHx7tl (Ratio: 1746.67) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 15164, lives: 2, level: 220, turn: 215 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+40oyKGxo|0.44|579.91|1
+leKLELj5|0.67|689.55|1
+fMcHx7tl|0.96|2245.71|2
+PQw7lu9P|0.75|811.70|3
+lAO3fG8L|0.28|224.95|5
+GUNReZVJ|0.47|364.28|6
+DvLTjurR|0.85|2165.21|6
+EongrMrE|0.44|400.20|6
+qsaNeSec|0.47|316.02|7
+Rs8XoOhF|0.47|419.35|7
+Best quest found: fMcHx7tl (Ratio: 2245.71) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: fMcHx7tl
+Response from API: {
+  success: true,
+  lives: 2,
+  gold: 16474,
+  score: 49324,
+  highScore: 0,
+  turn: 216,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+PQw7lu9P|0.75|877.96|2
+lAO3fG8L|0.28|238.51|4
+GUNReZVJ|0.47|386.16|5
+DvLTjurR|0.85|2312.00|5
+EongrMrE|0.44|424.02|5
+qsaNeSec|0.47|333.93|6
+Rs8XoOhF|0.47|443.10|6
+OgUlF9zf|0.75|630.00|7
+nfeKJSlW|0.75|640.00|7
+yQLXgu7A|0.44|366.04|7
+Best quest found: DvLTjurR (Ratio: 2312.00) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 16174, lives: 2, level: 222, turn: 217 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+PQw7lu9P|0.85|2267.72|1
+lAO3fG8L|0.28|253.79|3
+GUNReZVJ|0.67|625.64|4
+DvLTjurR|0.85|2480.15|4
+EongrMrE|0.47|486.22|4
+qsaNeSec|0.67|536.86|5
+Rs8XoOhF|0.47|469.72|5
+OgUlF9zf|0.85|1564.00|6
+nfeKJSlW|0.75|679.38|6
+yQLXgu7A|0.47|416.48|6
+Best quest found: DvLTjurR (Ratio: 2480.15) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 15874, lives: 2, level: 224, turn: 218 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+lAO3fG8L|0.44|450.84|2
+GUNReZVJ|0.67|671.47|3
+DvLTjurR|0.96|3156.98|3
+EongrMrE|0.47|519.41|3
+qsaNeSec|0.67|573.50|4
+Rs8XoOhF|0.67|761.01|4
+OgUlF9zf|0.85|1670.03|5
+nfeKJSlW|0.75|723.93|5
+yQLXgu7A|0.47|441.49|5
+Kklwca1o|0.85|1389.43|7
+Best quest found: DvLTjurR (Ratio: 3156.98) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: DvLTjurR
+Response from API: {
+  success: true,
+  lives: 2,
+  gold: 17880,
+  score: 51330,
+  highScore: 0,
+  turn: 219,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+lAO3fG8L|0.44|486.06|1
+GUNReZVJ|0.67|724.55|2
+EongrMrE|0.47|557.46|2
+qsaNeSec|0.67|615.52|3
+Rs8XoOhF|0.67|816.76|3
+OgUlF9zf|0.85|1791.49|4
+nfeKJSlW|0.75|774.74|4
+yQLXgu7A|0.47|469.70|4
+Kklwca1o|0.85|1477.65|6
+NlvOAicC|0.85|1424.96|7
+Best quest found: OgUlF9zf (Ratio: 1791.49) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 17580, lives: 2, level: 226, turn: 220 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+GUNReZVJ|0.75|912.00|1
+EongrMrE|0.47|601.53|1
+qsaNeSec|0.67|664.17|2
+Rs8XoOhF|0.67|881.33|2
+OgUlF9zf|0.85|1932.00|3
+nfeKJSlW|0.85|1962.67|3
+yQLXgu7A|0.67|767.68|3
+Kklwca1o|0.85|1577.83|5
+NlvOAicC|0.85|1515.43|6
+CG569Hy6|0.96|1330.96|7
+Best quest found: nfeKJSlW (Ratio: 1962.67) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 17280, lives: 2, level: 228, turn: 221 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+qsaNeSec|0.75|836.00|1
+Rs8XoOhF|0.75|1109.33|1
+OgUlF9zf|0.85|2096.43|2
+nfeKJSlW|0.85|2129.70|2
+yQLXgu7A|0.67|828.36|2
+Kklwca1o|0.85|1692.58|4
+NlvOAicC|0.96|1898.37|5
+CG569Hy6|0.96|1418.53|6
+6a4pIjJ2|0.47|297.37|7
+EhyNqPkb|0.67|636.22|7
+Best quest found: nfeKJSlW (Ratio: 2129.70) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 16980, lives: 2, level: 230, turn: 222 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+OgUlF9zf|0.85|2291.44|1
+nfeKJSlW|0.85|2327.81|1
+yQLXgu7A|0.67|899.47|1
+Kklwca1o|0.85|1825.33|3
+NlvOAicC|0.96|2042.18|4
+CG569Hy6|0.96|1518.42|5
+6a4pIjJ2|0.47|314.22|6
+EhyNqPkb|0.67|674.43|6
+l8XqDtlx|0.67|523.85|7
+bTuN2x41|0.96|1890.37|7
+Best quest found: nfeKJSlW (Ratio: 2327.81) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 16680, lives: 2, level: 232, turn: 223 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+Kklwca1o|0.85|1980.68|2
+NlvOAicC|0.96|2209.57|3
+CG569Hy6|0.96|1633.45|4
+6a4pIjJ2|0.47|333.09|5
+EhyNqPkb|0.67|717.52|5
+l8XqDtlx|0.67|555.32|6
+bTuN2x41|0.96|2014.74|6
+V2IZvaaa|0.44|325.79|7
+SjI8H7zE|0.85|1705.07|7
+4WN8Cx1D|0.28|212.57|7
+Best quest found: NlvOAicC (Ratio: 2209.57) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: NlvOAicC
+Response from API: {
+  success: false,
+  lives: 1,
+  gold: 16680,
+  score: 51330,
+  highScore: 0,
+  turn: 224,
+  message: 'You failed on the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+Kklwca1o|0.85|2164.93|1
+CG569Hy6|0.96|1767.34|3
+6a4pIjJ2|0.47|354.38|4
+EhyNqPkb|0.67|766.50|4
+l8XqDtlx|0.67|590.80|5
+bTuN2x41|0.96|2156.62|5
+V2IZvaaa|0.44|344.09|6
+SjI8H7zE|0.85|1813.33|6
+4WN8Cx1D|0.28|224.00|6
+t0WHn6sy|0.85|1793.37|7
+Best quest found: bTuN2x41 (Ratio: 2156.62) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: bTuN2x41
+Response from API: {
+  success: true,
+  lives: 1,
+  gold: 18275,
+  score: 52925,
+  highScore: 0,
+  turn: 225,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+CG569Hy6|0.96|1925.14|2
+6a4pIjJ2|0.47|378.57|3
+EhyNqPkb|0.67|822.65|3
+l8XqDtlx|0.67|631.13|4
+V2IZvaaa|0.44|364.57|5
+SjI8H7zE|0.85|1936.27|5
+4WN8Cx1D|0.28|236.73|5
+t0WHn6sy|0.85|1907.24|6
+xTDfT7G7|0.47|469.50|7
+VFid1v4u|0.18|112.66|7
+Best quest found: SjI8H7zE (Ratio: 1936.27) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 17975, lives: 1, level: 234, turn: 226 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+CG569Hy6|1   |2246.00|1
+6a4pIjJ2|0.67|624.98|2
+EhyNqPkb|0.75|1026.12|2
+l8XqDtlx|0.67|677.36|3
+V2IZvaaa|0.47|418.04|4
+SjI8H7zE|0.85|2077.09|4
+4WN8Cx1D|0.44|414.38|4
+t0WHn6sy|0.96|2389.18|5
+xTDfT7G7|0.67|749.68|6
+VFid1v4u|0.18|118.55|6
+Best quest found: t0WHn6sy (Ratio: 2389.18) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: t0WHn6sy
+Response from API: {
+  success: true,
+  lives: 1,
+  gold: 19742,
+  score: 54692,
+  highScore: 0,
+  turn: 227,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+6a4pIjJ2|0.67|678.63|1
+EhyNqPkb|0.75|1117.33|1
+l8XqDtlx|0.67|730.91|2
+V2IZvaaa|0.47|446.58|3
+SjI8H7zE|0.85|2240.00|3
+4WN8Cx1D|0.44|442.38|3
+xTDfT7G7|0.67|797.58|5
+VFid1v4u|0.18|125.10|5
+rwoQpzuX|0.44|314.09|7
+9QfZ812U|0.85|1510.21|7
+Best quest found: SjI8H7zE (Ratio: 2240.00) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 19442, lives: 1, level: 236, turn: 228 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+l8XqDtlx|0.67|793.65|1
+V2IZvaaa|0.47|479.30|2
+SjI8H7zE|0.96|2880.00|2
+4WN8Cx1D|0.44|474.43|2
+xTDfT7G7|0.67|852.02|4
+VFid1v4u|0.28|212.19|4
+rwoQpzuX|0.47|357.36|6
+9QfZ812U|0.96|1879.58|6
+SFE9gNxY|0.47|399.69|7
+ilbuzyw7|0.67|564.85|7
+Best quest found: SjI8H7zE (Ratio: 2880.00) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: SjI8H7zE
+Response from API: {
+  success: true,
+  lives: 1,
+  gold: 21122,
+  score: 56372,
+  highScore: 0,
+  turn: 229,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+V2IZvaaa|0.47|517.19|1
+4WN8Cx1D|0.44|511.50|1
+xTDfT7G7|0.67|914.44|3
+VFid1v4u|0.28|225.79|3
+rwoQpzuX|0.47|378.82|5
+9QfZ812U|0.96|2011.94|5
+SFE9gNxY|0.47|422.33|6
+ilbuzyw7|0.67|598.77|6
+0K0E3Bgn|1   |1906.25|7
+FzhChlfY|0.96|1895.11|7
+Best quest found: 9QfZ812U (Ratio: 2011.94) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: 9QfZ812U
+Response from API: {
+  success: true,
+  lives: 1,
+  gold: 22610,
+  score: 57860,
+  highScore: 0,
+  turn: 230,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+xTDfT7G7|0.67|986.73|2
+VFid1v4u|0.28|241.26|2
+rwoQpzuX|0.47|403.03|4
+SFE9gNxY|0.47|447.70|5
+ilbuzyw7|0.67|637.04|5
+0K0E3Bgn|1   |2033.33|6
+FzhChlfY|0.96|2019.79|6
+5Kny4DVY|0.44|328.13|7
+hvS6PgiZ|0.47|427.66|7
+1WMiD0kT|0.47|278.98|7
+Best quest found: 0K0E3Bgn (Ratio: 2033.33) - (diff: 1)
+--------------------------------------------------
+Attempting to solve quest: 0K0E3Bgn
+Response from API: {
+  success: true,
+  lives: 1,
+  gold: 24135,
+  score: 59385,
+  highScore: 0,
+  turn: 231,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+xTDfT7G7|0.67|1071.42|1
+VFid1v4u|0.28|259.00|1
+rwoQpzuX|0.47|430.54|3
+SFE9gNxY|0.47|476.31|4
+ilbuzyw7|0.67|680.52|4
+FzhChlfY|0.96|2162.03|5
+5Kny4DVY|0.44|346.56|6
+hvS6PgiZ|0.47|451.89|6
+1WMiD0kT|0.47|294.78|6
+TcN2XFfE|0.44|425.96|7
+Best quest found: FzhChlfY (Ratio: 2162.03) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: FzhChlfY
+Response from API: {
+  success: true,
+  lives: 1,
+  gold: 25734,
+  score: 60984,
+  highScore: 0,
+  turn: 232,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+rwoQpzuX|0.47|462.08|2
+SFE9gNxY|0.47|508.82|3
+ilbuzyw7|0.67|730.37|3
+5Kny4DVY|0.44|367.19|5
+hvS6PgiZ|0.47|479.03|5
+1WMiD0kT|0.47|312.49|5
+TcN2XFfE|0.44|449.89|6
+r8YykbPz|0.47|396.66|7
+jUSaO8Kx|0.18|118.93|7
+mvc8K4B9|0.11|82.03 |7
+Best quest found: ilbuzyw7 (Ratio: 730.37) - (diff: 0.67)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 25434, lives: 1, level: 238, turn: 233 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+rwoQpzuX|0.47|498.61|1
+SFE9gNxY|0.47|546.10|2
+ilbuzyw7|0.75|911.02|2
+5Kny4DVY|0.44|390.43|4
+hvS6PgiZ|0.67|776.10|4
+1WMiD0kT|0.47|332.45|4
+TcN2XFfE|0.44|476.67|5
+r8YykbPz|0.47|419.14|6
+jUSaO8Kx|0.28|199.91|6
+mvc8K4B9|0.11|86.25 |6
+Best quest found: ilbuzyw7 (Ratio: 911.02) - (diff: 0.75)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 25134, lives: 1, level: 240, turn: 234 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+SFE9gNxY|0.67|912.12|1
+ilbuzyw7|0.75|992.00|1
+5Kny4DVY|0.44|416.81|3
+hvS6PgiZ|0.67|832.96|3
+1WMiD0kT|0.67|543.36|3
+TcN2XFfE|0.47|546.58|4
+r8YykbPz|0.67|673.85|5
+jUSaO8Kx|0.28|211.27|5
+mvc8K4B9|0.18|151.66|5
+Lclg1af1|0.75|808.70|7
+Best quest found: ilbuzyw7 (Ratio: 992.00) - (diff: 0.75)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 24834, lives: 1, level: 242, turn: 235 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+5Kny4DVY|0.47|482.74|2
+hvS6PgiZ|0.67|898.81|2
+1WMiD0kT|0.67|586.32|2
+TcN2XFfE|0.47|583.89|3
+r8YykbPz|0.67|719.85|4
+jUSaO8Kx|0.28|224.00|4
+mvc8K4B9|0.18|160.53|4
+Lclg1af1|0.75|858.46|6
+hSoyYls5|0.75|576.09|7
+TkzM4Crm|0.67|664.31|7
+Best quest found: hvS6PgiZ (Ratio: 898.81) - (diff: 0.67)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 24534, lives: 1, level: 244, turn: 236 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+5Kny4DVY|0.47|520.90|1
+hvS6PgiZ|0.75|1131.33|1
+1WMiD0kT|0.67|636.64|1
+TcN2XFfE|0.47|626.67|2
+r8YykbPz|0.75|890.94|3
+jUSaO8Kx|0.44|394.81|3
+mvc8K4B9|0.18|170.50|3
+Lclg1af1|0.85|2143.73|5
+hSoyYls5|0.75|611.54|6
+TkzM4Crm|0.75|807.69|6
+Best quest found: Lclg1af1 (Ratio: 2143.73) - (diff: 0.85)
+--------------------------------------------------
+Attempting to solve quest: Lclg1af1
+Response from API: {
+  success: true,
+  lives: 1,
+  gold: 26394,
+  score: 62844,
+  highScore: 0,
+  turn: 237,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+TcN2XFfE|0.47|676.21|1
+r8YykbPz|0.75|963.67|2
+jUSaO8Kx|0.44|423.42|2
+mvc8K4B9|0.18|181.79|2
+hSoyYls5|0.75|651.64|5
+TkzM4Crm|0.75|860.66|5
+ec5K3o6O|0.75|783.91|7
+rVBWIGtK|0.18|120.54|7
+YB1ktsMw|0.47|313.75|7
+baslS08l|0.47|396.92|7
+Best quest found: r8YykbPz (Ratio: 963.67) - (diff: 0.75)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 26094, lives: 1, level: 246, turn: 238 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+r8YykbPz|0.75|1049.33|1
+jUSaO8Kx|0.44|456.50|1
+mvc8K4B9|0.18|194.68|1
+hSoyYls5|0.85|1638.18|4
+TkzM4Crm|0.75|921.05|4
+ec5K3o6O|0.75|832.15|6
+rVBWIGtK|0.18|126.85|6
+YB1ktsMw|0.47|331.53|6
+baslS08l|0.47|419.41|6
+UqehxaHy|0.85|1779.16|7
+Best quest found: UqehxaHy (Ratio: 1779.16) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 25794, lives: 1, level: 248, turn: 239 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+hSoyYls5|0.85|1766.67|3
+TkzM4Crm|0.75|990.57|3
+ec5K3o6O|0.75|886.72|5
+rVBWIGtK|0.18|133.86|5
+YB1ktsMw|0.67|533.00|5
+baslS08l|0.67|674.28|5
+UqehxaHy|0.96|2214.32|6
+mrUjA7Id|0.47|348.28|7
+dc1Pe1S4|0.75|578.70|7
+oaQQRFEF|0.85|1377.25|7
+Best quest found: UqehxaHy (Ratio: 2214.32) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: UqehxaHy
+Response from API: {
+  success: true,
+  lives: 1,
+  gold: 27547,
+  score: 64597,
+  highScore: 0,
+  turn: 240,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+hSoyYls5|0.85|1917.02|2
+TkzM4Crm|0.75|1071.43|2
+ec5K3o6O|0.75|948.95|4
+rVBWIGtK|0.18|141.68|4
+YB1ktsMw|0.67|569.39|4
+baslS08l|0.67|720.31|4
+mrUjA7Id|0.47|368.01|6
+dc1Pe1S4|0.75|614.31|6
+oaQQRFEF|0.85|1464.70|6
+XCMTyWu6|0.47|442.03|7
+Best quest found: hSoyYls5 (Ratio: 1917.02) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 27247, lives: 1, level: 250, turn: 241 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+hSoyYls5|0.85|2095.35|1
+TkzM4Crm|0.85|2767.44|1
+ec5K3o6O|0.85|2404.00|3
+rVBWIGtK|0.28|241.59|3
+YB1ktsMw|0.67|611.10|3
+baslS08l|0.67|773.08|3
+mrUjA7Id|0.47|390.11|5
+dc1Pe1S4|0.85|1534.03|5
+oaQQRFEF|0.85|1564.00|5
+XCMTyWu6|0.47|467.07|6
+Best quest found: TkzM4Crm (Ratio: 2767.44) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 26947, lives: 1, level: 252, turn: 242 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+ec5K3o6O|0.85|2608.60|2
+rVBWIGtK|0.44|429.16|2
+YB1ktsMw|0.75|762.24|2
+baslS08l|0.75|964.29|2
+mrUjA7Id|0.47|415.04|4
+dc1Pe1S4|0.85|1645.60|4
+oaQQRFEF|0.85|1677.75|4
+XCMTyWu6|0.47|495.12|5
+vIN5Ypcy|0.67|602.05|7
+OtwL0yTc|0.44|474.64|7
+Best quest found: ec5K3o6O (Ratio: 2608.60) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 26647, lives: 1, level: 254, turn: 243 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+ec5K3o6O|0.85|2851.26|1
+rVBWIGtK|0.44|462.69|1
+YB1ktsMw|0.75|830.00|1
+baslS08l|0.75|1050.00|1
+mrUjA7Id|0.47|443.37|3
+dc1Pe1S4|0.85|1774.67|3
+oaQQRFEF|0.85|1809.33|3
+XCMTyWu6|0.67|802.17|4
+vIN5Ypcy|0.67|638.21|6
+OtwL0yTc|0.44|501.30|6
+Best quest found: ec5K3o6O (Ratio: 2851.26) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 26347, lives: 1, level: 256, turn: 244 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+mrUjA7Id|0.47|475.85|2
+dc1Pe1S4|0.85|1925.70|2
+oaQQRFEF|0.85|1963.32|2
+XCMTyWu6|0.67|860.94|3
+vIN5Ypcy|0.75|780.00|5
+OtwL0yTc|0.44|531.14|5
+sZHocDyf|0.96|1438.81|7
+mdJgwAtI|0.75|723.04|7
+F04PVAI6|0.67|671.52|7
+GdnNT7WT|0.67|480.96|7
+Best quest found: oaQQRFEF (Ratio: 1963.32) - (diff: 0.85)
+--------------------------------------------------
+Attempting to solve quest: oaQQRFEF
+Response from API: {
+  success: true,
+  lives: 1,
+  gold: 27704,
+  score: 65954,
+  highScore: 0,
+  turn: 245,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+mrUjA7Id|0.47|513.47|1
+dc1Pe1S4|0.85|2104.84|1
+XCMTyWu6|0.67|929.00|2
+vIN5Ypcy|0.75|834.74|4
+OtwL0yTc|0.44|564.76|4
+sZHocDyf|0.96|1533.47|6
+mdJgwAtI|0.75|767.54|6
+F04PVAI6|0.67|711.85|6
+GdnNT7WT|0.67|509.84|6
+f6WnODsf|1   |1795.00|7
+Best quest found: dc1Pe1S4 (Ratio: 2104.84) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 27404, lives: 1, level: 258, turn: 246 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+XCMTyWu6|0.67|1008.74|1
+vIN5Ypcy|0.75|897.74|3
+OtwL0yTc|0.47|650.62|3
+sZHocDyf|0.96|1641.46|5
+mdJgwAtI|0.75|817.87|5
+F04PVAI6|0.67|757.34|5
+GdnNT7WT|0.67|542.42|5
+f6WnODsf|1   |1914.67|6
+z5RiHTHX|0.85|1512.24|7
+wPeP4Fa9|0.11|88.70 |7
+Best quest found: f6WnODsf (Ratio: 1914.67) - (diff: 1)
+--------------------------------------------------
+Attempting to solve quest: f6WnODsf
+Response from API: {
+  success: true,
+  lives: 1,
+  gold: 28840,
+  score: 67390,
+  highScore: 0,
+  turn: 247,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+vIN5Ypcy|0.75|971.02|2
+OtwL0yTc|0.47|698.29|2
+sZHocDyf|0.96|1765.82|4
+mdJgwAtI|0.75|875.26|4
+F04PVAI6|0.67|809.03|4
+GdnNT7WT|0.67|579.45|4
+z5RiHTHX|0.85|1608.25|6
+wPeP4Fa9|0.11|93.26 |6
+GH3TToOI|0.85|1496.00|7
+aa1dUkp8|0.75|629.13|7
+Best quest found: sZHocDyf (Ratio: 1765.82) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: sZHocDyf
+Response from API: {
+  success: true,
+  lives: 1,
+  gold: 30054,
+  score: 68604,
+  highScore: 0,
+  turn: 248,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+vIN5Ypcy|0.75|1057.33|1
+OtwL0yTc|0.47|753.49|1
+mdJgwAtI|0.75|941.32|3
+F04PVAI6|0.67|868.30|3
+GdnNT7WT|0.67|621.90|3
+z5RiHTHX|0.85|1717.29|5
+wPeP4Fa9|0.11|98.31 |5
+GH3TToOI|0.85|1590.98|6
+aa1dUkp8|0.75|667.85|6
+nzUFoewx|0.44|319.94|7
+Best quest found: z5RiHTHX (Ratio: 1717.29) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 29754, lives: 1, level: 260, turn: 249 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+mdJgwAtI|0.75|1018.16|2
+F04PVAI6|0.75|1083.06|2
+GdnNT7WT|0.75|775.71|2
+z5RiHTHX|0.85|1842.18|4
+wPeP4Fa9|0.11|103.95|4
+GH3TToOI|0.85|1698.85|5
+aa1dUkp8|0.85|1667.73|5
+nzUFoewx|0.47|364.02|6
+wd46BKyS|0.75|769.13|7
+jcm7CTOC|0.85|1659.40|7
+Best quest found: z5RiHTHX (Ratio: 1842.18) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 29454, lives: 1, level: 262, turn: 250 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+mdJgwAtI|0.75|1108.67|1
+F04PVAI6|0.75|1179.33|1
+GdnNT7WT|0.75|844.67|1
+z5RiHTHX|0.85|1986.67|3
+wPeP4Fa9|0.18|184.36|3
+GH3TToOI|0.85|1822.40|4
+aa1dUkp8|0.85|1789.02|4
+nzUFoewx|0.47|385.88|5
+wd46BKyS|0.75|816.46|6
+jcm7CTOC|0.85|1764.76|6
+Best quest found: z5RiHTHX (Ratio: 1986.67) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 29154, lives: 1, level: 264, turn: 251 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+z5RiHTHX|0.85|2155.74|2
+wPeP4Fa9|0.18|196.57|2
+GH3TToOI|0.85|1965.33|3
+aa1dUkp8|0.85|1929.33|3
+nzUFoewx|0.67|625.18|4
+wd46BKyS|0.75|870.00|5
+jcm7CTOC|0.85|1884.41|5
+R4tF3buO|0.44|350.13|7
+YkqnthW1|0.28|202.00|7
+2qqOwrca|0.96|1966.22|7
+Best quest found: z5RiHTHX (Ratio: 2155.74) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 28854, lives: 1, level: 266, turn: 252 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+z5RiHTHX|0.96|2804.71|1
+wPeP4Fa9|0.18|210.51|1
+GH3TToOI|0.85|2132.60|2
+aa1dUkp8|0.85|2093.53|2
+nzUFoewx|0.67|670.98|3
+wd46BKyS|0.75|931.05|4
+jcm7CTOC|0.85|2021.45|4
+R4tF3buO|0.44|369.80|6
+YkqnthW1|0.44|349.53|6
+2qqOwrca|0.96|2095.58|6
+Best quest found: z5RiHTHX (Ratio: 2804.71) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: z5RiHTHX
+Response from API: {
+  success: true,
+  lives: 1,
+  gold: 30344,
+  score: 70094,
+  highScore: 0,
+  turn: 253,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+GH3TToOI|0.85|2330.98|1
+aa1dUkp8|0.85|2288.28|1
+nzUFoewx|0.67|724.02|2
+wd46BKyS|0.75|1001.32|3
+jcm7CTOC|0.85|2180.00|3
+R4tF3buO|0.44|391.81|5
+YkqnthW1|0.44|370.33|5
+2qqOwrca|0.96|2243.15|5
+L2RdbGMv|1   |2207.50|7
+FEVy7x4r|0.28|216.86|7
+Best quest found: GH3TToOI (Ratio: 2330.98) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying wingpotmax
+ { shoppingSuccess: true, gold: 30044, lives: 1, level: 268, turn: 254 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+nzUFoewx|0.75|911.33|1
+wd46BKyS|0.75|1083.06|2
+jcm7CTOC|0.85|2365.53|2
+R4tF3buO|0.44|416.61|4
+YkqnthW1|0.44|393.77|4
+2qqOwrca|0.96|2413.09|4
+L2RdbGMv|1   |2354.67|6
+FEVy7x4r|0.28|228.52|6
+cWy3HPxJ|0.18|121.07|7
+pid3MSKe|0.47|521.66|7
+Best quest found: 2qqOwrca (Ratio: 2413.09) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: 2qqOwrca
+Response from API: {
+  success: true,
+  lives: 1,
+  gold: 31703,
+  score: 71753,
+  highScore: 0,
+  turn: 255,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+wd46BKyS|0.75|1179.33|1
+jcm7CTOC|0.85|2585.58|1
+R4tF3buO|0.44|444.76|3
+YkqnthW1|0.44|420.38|3
+L2RdbGMv|1   |2522.86|5
+FEVy7x4r|0.28|241.50|5
+cWy3HPxJ|0.18|127.41|6
+pid3MSKe|0.47|551.22|6
+EXRfd6k5|0.11|118.12|7
+mj8al8p6|0.75|616.52|7
+Best quest found: jcm7CTOC (Ratio: 2585.58) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying iron
+ { shoppingSuccess: true, gold: 31403, lives: 1, level: 270, turn: 256 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+R4tF3buO|0.47|515.11|2
+YkqnthW1|0.47|486.87|2
+L2RdbGMv|1   |2716.92|4
+FEVy7x4r|0.44|422.73|4
+cWy3HPxJ|0.18|134.45|5
+pid3MSKe|0.47|584.32|5
+EXRfd6k5|0.18|206.95|6
+mj8al8p6|0.85|1530.54|6
+dU2u9cnt|0.75|616.52|7
+YurR3K7f|0.28|254.14|7
+Best quest found: L2RdbGMv (Ratio: 2716.92) - (diff: 1)
+--------------------------------------------------
+Attempting to solve quest: L2RdbGMv
+Response from API: {
+  success: true,
+  lives: 1,
+  gold: 33169,
+  score: 73519,
+  highScore: 0,
+  turn: 257,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+R4tF3buO|0.47|555.83|1
+YkqnthW1|0.47|525.36|1
+FEVy7x4r|0.44|451.30|3
+cWy3HPxJ|0.18|142.32|4
+pid3MSKe|0.47|621.66|4
+EXRfd6k5|0.18|218.39|5
+mj8al8p6|0.85|1634.31|5
+dU2u9cnt|0.75|654.46|6
+YurR3K7f|0.28|267.81|6
+tGsRM3MB|0.44|432.51|7
+Best quest found: mj8al8p6 (Ratio: 1634.31) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 32869, lives: 1, level: 272, turn: 258 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+FEVy7x4r|0.44|484.00|2
+cWy3HPxJ|0.28|242.67|3
+pid3MSKe|0.67|1016.04|3
+EXRfd6k5|0.18|231.16|4
+mj8al8p6|0.85|1753.16|4
+dU2u9cnt|0.85|1634.31|5
+YurR3K7f|0.28|283.02|5
+tGsRM3MB|0.47|492.10|6
+vPSTLP26|0.47|437.49|7
+c16X2xJG|0.85|1534.57|7
+Best quest found: mj8al8p6 (Ratio: 1753.16) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 32569, lives: 1, level: 274, turn: 259 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+FEVy7x4r|0.47|564.00|1
+cWy3HPxJ|0.44|431.07|2
+pid3MSKe|0.67|1096.36|2
+EXRfd6k5|0.28|394.15|3
+mj8al8p6|0.96|2231.61|3
+dU2u9cnt|0.85|1753.16|4
+YurR3K7f|0.28|300.07|4
+tGsRM3MB|0.47|521.66|5
+vPSTLP26|0.47|462.28|6
+c16X2xJG|0.85|1632.00|6
+Best quest found: mj8al8p6 (Ratio: 2231.61) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: mj8al8p6
+Response from API: {
+  success: true,
+  lives: 1,
+  gold: 33987,
+  score: 74937,
+  highScore: 0,
+  turn: 260,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+cWy3HPxJ|0.44|464.75|1
+pid3MSKe|0.67|1190.47|1
+EXRfd6k5|0.28|421.15|2
+dU2u9cnt|0.85|1890.67|3
+YurR3K7f|0.28|319.31|3
+tGsRM3MB|0.47|554.99|4
+vPSTLP26|0.47|490.04|5
+c16X2xJG|0.85|1742.64|5
+OZCJwUdO|0.96|1918.81|7
+JiS26sdO|0.11|76.38 |7
+Best quest found: OZCJwUdO (Ratio: 1918.81) - (diff: 0.96)
+--------------------------------------------------
+Attempting to solve quest: OZCJwUdO
+Response from API: {
+  success: true,
+  lives: 1,
+  gold: 35606,
+  score: 76556,
+  highScore: 0,
+  turn: 261,
+  message: 'You successfully solved the mission!'
+}
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+EXRfd6k5|0.28|452.12|1
+dU2u9cnt|0.85|2051.57|2
+YurR3K7f|0.28|341.18|2
+tGsRM3MB|0.47|592.87|3
+vPSTLP26|0.47|521.35|4
+c16X2xJG|0.85|1869.38|4
+JiS26sdO|0.11|80.31 |6
+p7JJudMc|0.11|91.66 |7
+aO4urELC|0.67|517.40|7
+FtR8Ajl9|0.47|501.00|7
+Best quest found: dU2u9cnt (Ratio: 2051.57) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying ch
+ { shoppingSuccess: true, gold: 35306, lives: 1, level: 276, turn: 262 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+dU2u9cnt|0.85|2242.42|1
+YurR3K7f|0.44|611.53|1
+tGsRM3MB|0.67|978.78|2
+vPSTLP26|0.47|556.94|3
+c16X2xJG|0.85|2016.00|3
+JiS26sdO|0.11|84.66 |5
+p7JJudMc|0.11|96.37 |6
+aO4urELC|0.67|548.47|6
+FtR8Ajl9|0.47|529.38|6
+dIRfRqc7|0.18|139.88|7
+Best quest found: dU2u9cnt (Ratio: 2242.42) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 35006, lives: 1, level: 278, turn: 263 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+tGsRM3MB|0.67|1062.80|1
+vPSTLP26|0.47|597.74|2
+c16X2xJG|0.85|2187.57|2
+JiS26sdO|0.11|89.51 |4
+p7JJudMc|0.11|101.59|5
+aO4urELC|0.67|583.52|5
+FtR8Ajl9|0.47|561.18|5
+dIRfRqc7|0.18|147.20|6
+gMwfb1dW|0.67|662.41|7
+1dJnPA0V|0.18|163.88|7
+Best quest found: c16X2xJG (Ratio: 2187.57) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying rf
+ { shoppingSuccess: true, gold: 34706, lives: 1, level: 280, turn: 264 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+vPSTLP26|0.67|998.39|1
+c16X2xJG|0.85|2391.07|1
+JiS26sdO|0.11|94.95 |3
+p7JJudMc|0.11|107.42|4
+aO4urELC|0.67|623.35|4
+FtR8Ajl9|0.47|597.04|4
+dIRfRqc7|0.18|155.34|5
+gMwfb1dW|0.67|702.19|6
+1dJnPA0V|0.18|172.46|6
+TzOu7jDu|0.28|275.71|7
+Best quest found: c16X2xJG (Ratio: 2391.07) - (diff: 0.85)
+--------------------------------------------------
+Checking store inventory for Game ID: XDlYaAUO...
+Buying mtrix
+ { shoppingSuccess: true, gold: 34406, lives: 1, level: 282, turn: 265 }
+########################################################################
+Fetching quests for Game ID: XDlYaAUO
+id      |risk|score |exp
+JiS26sdO|0.11|101.10|2
+p7JJudMc|0.11|113.95|3
+aO4urELC|0.75|771.51|3
+FtR8Ajl9|0.67|975.79|3
+dIRfRqc7|0.18|164.42|4
+gMwfb1dW|0.67|747.06|5
+1dJnPA0V|0.28|291.14|5
+TzOu7jDu|0.28|290.54|6
+pMeeXsHc|0.75|592.61|7
+wb6VTxZY|0.18|119.46|7
+Best quest found: FtR8Ajl9 (Ratio: 975.79) - (diff: 0.67)
+--------------------------------------------------
+Attempting to solve quest: FtR8Ajl9
+Response from API: {
+  success: false,
+  lives: 0,
+  gold: 34406,
+  score: 76556,
+  highScore: 0,
+  turn: 266,
+  message: 'You were defeated on your last mission!'
+}
+
+ You have died. Try again!
+
+ Final stats:
+{
+  "gameId": "XDlYaAUO",
+  "lives": 0,
+  "gold": 34406,
+  "level": 282,
+  "score": 76556,
+  "highScore": 76556,
+  "turn": 266
+}
+
+Process finished with exit code 0
+
+
